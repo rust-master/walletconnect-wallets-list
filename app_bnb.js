@@ -44,8 +44,8 @@ async function fetchWallets() {
   const limitedWallets = wallets.slice(0, maxWallets);
 
   // Save the results to a JSON file
-  fs.writeFileSync('bnb_wallets.json', JSON.stringify(limitedWallets, null, 2), 'utf8');
-  console.log(`Saved ${limitedWallets.length} wallets to bnb_wallets.json`);
+  fs.writeFileSync('wallets_bnb.json', JSON.stringify(limitedWallets, null, 2), 'utf8');
+  console.log(`Saved ${limitedWallets.length} wallets to wallets_bnb.json`);
 }
 
 fetchWallets();
