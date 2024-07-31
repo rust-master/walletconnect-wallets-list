@@ -1,0 +1,44 @@
+[
+  {
+    "srNo": 21,
+    "name": "Nitrogen Wallet",
+    "category": "Mobile Wallets",
+    "chains": [
+      "solana:4uhcVJyU9pJkvQyS88uRDiswHXSCkY3z",
+      "solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
+      "solana:EtWTRABZaYq6iMfeYKouRu166VU2xqa1"
+    ],
+    "imageUrlSm": "https://explorer-api.walletconnect.com/v3/logo/sm/af185895-cda5-4eaf-e31b-28b6fe4b0800?projectId=2f05ae7f1116030fde2d36508f472bfb",
+    "imageUrlMd": "https://explorer-api.walletconnect.com/v3/logo/md/af185895-cda5-4eaf-e31b-28b6fe4b0800?projectId=2f05ae7f1116030fde2d36508f472bfb",
+    "imageUrlLg": "https://explorer-api.walletconnect.com/v3/logo/md/af185895-cda5-4eaf-e31b-28b6fe4b0800?projectId=2f05ae7f1116030fde2d36508f472bfb",
+    "appType": "wallet"
+  },
+  {
+    "srNo": 34,
+    "name": "Phantom",
+    "category": "Injected Wallets",
+    "chains": [
+      "solana:4uhcVJyU9pJkvQyS88uRDiswHXSCkY3z",
+      "solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
+      "solana:EtWTRABZaYq6iMfeYKouRu166VU2xqa1"
+    ],
+    "imageUrlSm": "https://explorer-api.walletconnect.com/v3/logo/sm/c38443bb-b3c1-4697-e569-408de3fcc100?projectId=2f05ae7f1116030fde2d36508f472bfb",
+    "imageUrlMd": "https://explorer-api.walletconnect.com/v3/logo/md/c38443bb-b3c1-4697-e569-408de3fcc100?projectId=2f05ae7f1116030fde2d36508f472bfb",
+    "imageUrlLg": "https://explorer-api.walletconnect.com/v3/logo/md/c38443bb-b3c1-4697-e569-408de3fcc100?projectId=2f05ae7f1116030fde2d36508f472bfb",
+    "appType": "wallet"
+  },
+  {
+    "srNo": 48,
+    "name": "NuFi",
+    "category": "Web App Wallets",
+    "chains": [
+      "cip-34:0-1",
+      "cip-34:1-764824073",
+      "solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp"
+    ],
+    "imageUrlSm": "https://explorer-api.walletconnect.com/v3/logo/sm/65e07e9f-183a-4f6c-6ca5-4964eda1ef00?projectId=2f05ae7f1116030fde2d36508f472bfb",
+    "imageUrlMd": "https://explorer-api.walletconnect.com/v3/logo/md/65e07e9f-183a-4f6c-6ca5-4964eda1ef00?projectId=2f05ae7f1116030fde2d36508f472bfb",
+    "imageUrlLg": "https://explorer-api.walletconnect.com/v3/logo/md/65e07e9f-183a-4f6c-6ca5-4964eda1ef00?projectId=2f05ae7f1116030fde2d36508f472bfb",
+    "appType": "wallet"
+  }
+]
