@@ -21,6 +21,7 @@ async function fetchWallets() {
           srNo: wallets.length + index + 1,
           name: wallet.name,
           category: wallet.category,
+          chains: wallet.chains,
           imageUrlSm: wallet.image_url.sm,
           imageUrlMd: wallet.image_url.md,
           imageUrlLg: wallet.image_url.lg,
@@ -46,8 +47,8 @@ async function fetchWallets() {
   const limitedWallets = wallets.slice(0, maxWallets);
 
   // Save the results to a JSON file
-  fs.writeFileSync('wallets_solana1.json', JSON.stringify(limitedWallets, null, 2), 'utf8');
-  console.log(`Saved ${limitedWallets.length} wallets to wallets_solana1.json`);
+  fs.writeFileSync('wallets_solana.json', JSON.stringify(limitedWallets, null, 2), 'utf8');
+  console.log(`Saved ${limitedWallets.length} wallets to wallets_solana.json`);
 }
 
 fetchWallets();
