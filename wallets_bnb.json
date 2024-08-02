@@ -1954,15 +1954,6 @@
   },
   {
     "srNo": 218,
-    "name": "GateWallet",
-    "category": "Mobile Wallets",
-    "imageUrlSm": "https://explorer-api.walletconnect.com/v3/logo/sm/aaf2193b-c4e4-4552-bb5b-dc1e1d2ff300?projectId=2f05ae7f1116030fde2d36508f472bfb",
-    "imageUrlMd": "https://explorer-api.walletconnect.com/v3/logo/md/aaf2193b-c4e4-4552-bb5b-dc1e1d2ff300?projectId=2f05ae7f1116030fde2d36508f472bfb",
-    "imageUrlLg": "https://explorer-api.walletconnect.com/v3/logo/md/aaf2193b-c4e4-4552-bb5b-dc1e1d2ff300?projectId=2f05ae7f1116030fde2d36508f472bfb",
-    "appType": "wallet"
-  },
-  {
-    "srNo": 219,
     "name": "Bitwinex",
     "category": "Web App Wallets",
     "imageUrlSm": "https://explorer-api.walletconnect.com/v3/logo/sm/2fc793ee-4c3a-4d84-85a1-3f9ff98ece00?projectId=2f05ae7f1116030fde2d36508f472bfb",
@@ -1971,7 +1962,7 @@
     "appType": "wallet"
   },
   {
-    "srNo": 220,
+    "srNo": 219,
     "name": "X9Wallet",
     "category": "Mobile Wallets",
     "imageUrlSm": "https://explorer-api.walletconnect.com/v3/logo/sm/f64f7bf8-62ea-4d1e-087b-82d374d04d00?projectId=2f05ae7f1116030fde2d36508f472bfb",
@@ -1980,7 +1971,7 @@
     "appType": "wallet"
   },
   {
-    "srNo": 221,
+    "srNo": 220,
     "name": "Mirai App",
     "category": "MPC-based wallets",
     "imageUrlSm": "https://explorer-api.walletconnect.com/v3/logo/sm/f18751e8-6e0c-471d-e2b3-0ce2dddc1f00?projectId=2f05ae7f1116030fde2d36508f472bfb",
@@ -1989,7 +1980,7 @@
     "appType": "wallet"
   },
   {
-    "srNo": 222,
+    "srNo": 221,
     "name": "Levain",
     "category": "Web App Wallets",
     "imageUrlSm": "https://explorer-api.walletconnect.com/v3/logo/sm/504f6043-9d47-4dd9-5332-49ea67e93100?projectId=2f05ae7f1116030fde2d36508f472bfb",
@@ -1998,7 +1989,7 @@
     "appType": "wallet"
   },
   {
-    "srNo": 223,
+    "srNo": 222,
     "name": "Facewallet",
     "category": "Web App Wallets",
     "imageUrlSm": "https://explorer-api.walletconnect.com/v3/logo/sm/51ab77a7-8df7-4217-ad98-b313cfbbe700?projectId=2f05ae7f1116030fde2d36508f472bfb",
@@ -2007,7 +1998,7 @@
     "appType": "wallet"
   },
   {
-    "srNo": 224,
+    "srNo": 223,
     "name": "Cogni ",
     "category": "Mobile Wallets",
     "imageUrlSm": "https://explorer-api.walletconnect.com/v3/logo/sm/b650cd08-21eb-4769-8ef9-96feb6e38e00?projectId=2f05ae7f1116030fde2d36508f472bfb",
@@ -2016,7 +2007,7 @@
     "appType": "wallet"
   },
   {
-    "srNo": 225,
+    "srNo": 224,
     "name": "Scramble",
     "category": "Injected Wallets",
     "imageUrlSm": "https://explorer-api.walletconnect.com/v3/logo/sm/c00ef3da-aacb-4c27-66ae-3cb9537a4800?projectId=2f05ae7f1116030fde2d36508f472bfb",
@@ -2025,7 +2016,7 @@
     "appType": "wallet"
   },
   {
-    "srNo": 226,
+    "srNo": 225,
     "name": "Fastex Wallet",
     "category": "Mobile Wallets",
     "imageUrlSm": "https://explorer-api.walletconnect.com/v3/logo/sm/a38db32b-8291-4d25-9aae-4bf4b6e6f300?projectId=2f05ae7f1116030fde2d36508f472bfb",
@@ -2034,7 +2025,7 @@
     "appType": "wallet"
   },
   {
-    "srNo": 227,
+    "srNo": 226,
     "name": "Wallacy",
     "category": "Mobile Wallets",
     "imageUrlSm": "https://explorer-api.walletconnect.com/v3/logo/sm/9496c3d8-8b60-495f-bd55-c3af19519d00?projectId=2f05ae7f1116030fde2d36508f472bfb",
@@ -2043,7 +2034,7 @@
     "appType": "wallet"
   },
   {
-    "srNo": 228,
+    "srNo": 227,
     "name": "T+ Wallet ",
     "category": "Mobile Wallets",
     "imageUrlSm": "https://explorer-api.walletconnect.com/v3/logo/sm/c08ff28f-5a52-4bf2-e63a-205905fd5800?projectId=2f05ae7f1116030fde2d36508f472bfb",
@@ -2052,7 +2043,7 @@
     "appType": "wallet"
   },
   {
-    "srNo": 229,
+    "srNo": 228,
     "name": "Zelus Wallet",
     "category": "Mobile Wallets",
     "imageUrlSm": "https://explorer-api.walletconnect.com/v3/logo/sm/a173eba6-05b4-43f4-0df6-400563637b00?projectId=2f05ae7f1116030fde2d36508f472bfb",
@@ -2061,7 +2052,7 @@
     "appType": "wallet"
   },
   {
-    "srNo": 230,
+    "srNo": 229,
     "name": "Capsule",
     "category": "MPC-based wallets",
     "imageUrlSm": "https://explorer-api.walletconnect.com/v3/logo/sm/8308dacf-028c-4f0a-9636-1ccd95768300?projectId=2f05ae7f1116030fde2d36508f472bfb",
@@ -2070,7 +2061,7 @@
     "appType": "wallet"
   },
   {
-    "srNo": 231,
+    "srNo": 230,
     "name": "Savl",
     "category": "Mobile Wallets",
     "imageUrlSm": "https://explorer-api.walletconnect.com/v3/logo/sm/067b2a53-e8d0-4256-9c64-4e404db11800?projectId=2f05ae7f1116030fde2d36508f472bfb",
@@ -2079,7 +2070,7 @@
     "appType": "wallet"
   },
   {
-    "srNo": 232,
+    "srNo": 231,
     "name": "SoulSwap",
     "category": "Mobile Wallets",
     "imageUrlSm": "https://explorer-api.walletconnect.com/v3/logo/sm/24fc6e6e-a276-4c95-fa77-91ec1097d600?projectId=2f05ae7f1116030fde2d36508f472bfb",
@@ -2088,7 +2079,7 @@
     "appType": "wallet"
   },
   {
-    "srNo": 233,
+    "srNo": 232,
     "name": "ShapeShift",
     "category": "Web App Wallets",
     "imageUrlSm": "https://explorer-api.walletconnect.com/v3/logo/sm/f8de2385-7d9b-4b31-bfed-5555b14fad00?projectId=2f05ae7f1116030fde2d36508f472bfb",
@@ -2097,7 +2088,7 @@
     "appType": "wallet"
   },
   {
-    "srNo": 234,
+    "srNo": 233,
     "name": "Panaroma Wallet",
     "category": "Mobile Wallets",
     "imageUrlSm": "https://explorer-api.walletconnect.com/v3/logo/sm/4394f728-0c57-4560-acba-48bfd82ddf00?projectId=2f05ae7f1116030fde2d36508f472bfb",
@@ -2106,7 +2097,7 @@
     "appType": "wallet"
   },
   {
-    "srNo": 235,
+    "srNo": 234,
     "name": "Alicebob Wallet",
     "category": "Mobile Wallets",
     "imageUrlSm": "https://explorer-api.walletconnect.com/v3/logo/sm/15be8ddd-0bef-4948-56d1-6101347a6b00?projectId=2f05ae7f1116030fde2d36508f472bfb",
@@ -2115,7 +2106,7 @@
     "appType": "wallet"
   },
   {
-    "srNo": 236,
+    "srNo": 235,
     "name": "CyberWallet",
     "category": "Smart Contract Wallets",
     "imageUrlSm": "https://explorer-api.walletconnect.com/v3/logo/sm/24887576-8e74-4518-36b3-3c5e13f11a00?projectId=2f05ae7f1116030fde2d36508f472bfb",
@@ -2124,7 +2115,7 @@
     "appType": "wallet"
   },
   {
-    "srNo": 237,
+    "srNo": 236,
     "name": "DexTrade",
     "category": "Web App Wallets",
     "imageUrlSm": "https://explorer-api.walletconnect.com/v3/logo/sm/d33237c0-a4e1-4339-9db8-a1087311c400?projectId=2f05ae7f1116030fde2d36508f472bfb",
@@ -2133,7 +2124,7 @@
     "appType": "wallet"
   },
   {
-    "srNo": 238,
+    "srNo": 237,
     "name": "Pintu",
     "category": "MPC-based wallets",
     "imageUrlSm": "https://explorer-api.walletconnect.com/v3/logo/sm/b9c5dfd6-ca26-46c2-bc79-bc2570495800?projectId=2f05ae7f1116030fde2d36508f472bfb",
@@ -2142,7 +2133,7 @@
     "appType": "wallet"
   },
   {
-    "srNo": 239,
+    "srNo": 238,
     "name": "Pandoshi Wallet",
     "category": "Mobile Wallets",
     "imageUrlSm": "https://explorer-api.walletconnect.com/v3/logo/sm/d5be0305-ff38-4412-6089-a94c2e445300?projectId=2f05ae7f1116030fde2d36508f472bfb",
@@ -2151,7 +2142,7 @@
     "appType": "wallet"
   },
   {
-    "srNo": 240,
+    "srNo": 239,
     "name": "MPCVault | Team crypto wallet",
     "category": "MPC-based wallets",
     "imageUrlSm": "https://explorer-api.walletconnect.com/v3/logo/sm/3cbf71ea-c90b-427c-6b2c-a9a7c7c0d500?projectId=2f05ae7f1116030fde2d36508f472bfb",
@@ -2160,7 +2151,7 @@
     "appType": "wallet"
   },
   {
-    "srNo": 241,
+    "srNo": 240,
     "name": "Legacy Wallet",
     "category": "Mobile Wallets",
     "imageUrlSm": "https://explorer-api.walletconnect.com/v3/logo/sm/ed181b1b-e4c0-4a2e-4a4c-f380a9f13c00?projectId=2f05ae7f1116030fde2d36508f472bfb",
@@ -2169,7 +2160,7 @@
     "appType": "wallet"
   },
   {
-    "srNo": 242,
+    "srNo": 241,
     "name": "ioPay",
     "category": "Mobile Wallets",
     "imageUrlSm": "https://explorer-api.walletconnect.com/v3/logo/sm/411d80d0-3a75-4932-560f-565d8c715e00?projectId=2f05ae7f1116030fde2d36508f472bfb",
@@ -2178,7 +2169,7 @@
     "appType": "wallet"
   },
   {
-    "srNo": 243,
+    "srNo": 242,
     "name": "Mixin Messenger",
     "category": "MPC-based wallets",
     "imageUrlSm": "https://explorer-api.walletconnect.com/v3/logo/sm/c5516ab5-57c3-45ec-09e2-b149c9709600?projectId=2f05ae7f1116030fde2d36508f472bfb",
@@ -2187,7 +2178,7 @@
     "appType": "wallet"
   },
   {
-    "srNo": 244,
+    "srNo": 243,
     "name": "Bettatrade",
     "category": "Mobile Wallets",
     "imageUrlSm": "https://explorer-api.walletconnect.com/v3/logo/sm/938053f6-6e81-4d58-4033-8ae8625e5f00?projectId=2f05ae7f1116030fde2d36508f472bfb",
@@ -2196,7 +2187,7 @@
     "appType": "wallet"
   },
   {
-    "srNo": 245,
+    "srNo": 244,
     "name": "Renegade",
     "category": "MPC-based wallets",
     "imageUrlSm": "https://explorer-api.walletconnect.com/v3/logo/sm/6ce2caa3-c597-445a-b61f-0b46b5c15000?projectId=2f05ae7f1116030fde2d36508f472bfb",
@@ -2205,7 +2196,7 @@
     "appType": "wallet"
   },
   {
-    "srNo": 246,
+    "srNo": 245,
     "name": "Ready",
     "category": "Mobile Wallets",
     "imageUrlSm": "https://explorer-api.walletconnect.com/v3/logo/sm/00ba080d-fb0a-4a31-940e-f75388500500?projectId=2f05ae7f1116030fde2d36508f472bfb",
@@ -2214,7 +2205,7 @@
     "appType": "wallet"
   },
   {
-    "srNo": 247,
+    "srNo": 246,
     "name": "Plutope",
     "category": "Mobile Wallets",
     "imageUrlSm": "https://explorer-api.walletconnect.com/v3/logo/sm/77aab1ef-28e8-4473-b91a-a566fd910900?projectId=2f05ae7f1116030fde2d36508f472bfb",
@@ -2223,7 +2214,7 @@
     "appType": "wallet"
   },
   {
-    "srNo": 248,
+    "srNo": 247,
     "name": "Dfinn Wallet",
     "category": "Mobile Wallets",
     "imageUrlSm": "https://explorer-api.walletconnect.com/v3/logo/sm/9a9c59ce-6346-4af8-db19-778533fb6000?projectId=2f05ae7f1116030fde2d36508f472bfb",
@@ -2232,7 +2223,7 @@
     "appType": "wallet"
   },
   {
-    "srNo": 249,
+    "srNo": 248,
     "name": "Spatium",
     "category": "Mobile Wallets",
     "imageUrlSm": "https://explorer-api.walletconnect.com/v3/logo/sm/8b966926-cdcf-4eae-1432-b400fe014700?projectId=2f05ae7f1116030fde2d36508f472bfb",
@@ -2241,7 +2232,7 @@
     "appType": "wallet"
   },
   {
-    "srNo": 250,
+    "srNo": 249,
     "name": "Transi",
     "category": "MPC-based wallets",
     "imageUrlSm": "https://explorer-api.walletconnect.com/v3/logo/sm/a567089d-69d5-47f6-fd99-db47a448ab00?projectId=2f05ae7f1116030fde2d36508f472bfb",
@@ -2250,7 +2241,7 @@
     "appType": "wallet"
   },
   {
-    "srNo": 251,
+    "srNo": 250,
     "name": "Dollet",
     "category": "Mobile Wallets",
     "imageUrlSm": "https://explorer-api.walletconnect.com/v3/logo/sm/21679e58-e829-44f6-78d3-6a9d6e9ce900?projectId=2f05ae7f1116030fde2d36508f472bfb",
@@ -2259,7 +2250,7 @@
     "appType": "wallet"
   },
   {
-    "srNo": 252,
+    "srNo": 251,
     "name": "Wombat",
     "category": "Mobile Wallets",
     "imageUrlSm": "https://explorer-api.walletconnect.com/v3/logo/sm/e675efa3-4ffc-4199-9c22-b9692baea900?projectId=2f05ae7f1116030fde2d36508f472bfb",
@@ -2268,7 +2259,7 @@
     "appType": "wallet"
   },
   {
-    "srNo": 253,
+    "srNo": 252,
     "name": "Dropmate",
     "category": "Cloud-based Wallets",
     "imageUrlSm": "https://explorer-api.walletconnect.com/v3/logo/sm/bf19fe4b-d712-45e8-95f2-b7be36e4c400?projectId=2f05ae7f1116030fde2d36508f472bfb",
@@ -2277,7 +2268,7 @@
     "appType": "wallet"
   },
   {
-    "srNo": 254,
+    "srNo": 253,
     "name": "DGPub App",
     "category": "Smart Contract Wallets",
     "imageUrlSm": "https://explorer-api.walletconnect.com/v3/logo/sm/9d9a2700-4ab0-4c1c-4acf-8ed0037cc500?projectId=2f05ae7f1116030fde2d36508f472bfb",
@@ -2286,7 +2277,7 @@
     "appType": "wallet"
   },
   {
-    "srNo": 255,
+    "srNo": 254,
     "name": "icewal",
     "category": "Mobile Wallets",
     "imageUrlSm": "https://explorer-api.walletconnect.com/v3/logo/sm/bbfa8e6a-984d-4955-c919-8181e8bc9e00?projectId=2f05ae7f1116030fde2d36508f472bfb",
@@ -2295,7 +2286,7 @@
     "appType": "wallet"
   },
   {
-    "srNo": 256,
+    "srNo": 255,
     "name": "metapro wallet",
     "category": "Mobile Wallets",
     "imageUrlSm": "https://explorer-api.walletconnect.com/v3/logo/sm/20775b9e-c38f-4173-509f-896a84593b00?projectId=2f05ae7f1116030fde2d36508f472bfb",
@@ -2304,7 +2295,7 @@
     "appType": "wallet"
   },
   {
-    "srNo": 257,
+    "srNo": 256,
     "name": "Bonuz - Social ID",
     "category": "Mobile Wallets",
     "imageUrlSm": "https://explorer-api.walletconnect.com/v3/logo/sm/eb376138-c5b9-4d82-c610-c98c9c218a00?projectId=2f05ae7f1116030fde2d36508f472bfb",
@@ -2313,7 +2304,7 @@
     "appType": "wallet"
   },
   {
-    "srNo": 258,
+    "srNo": 257,
     "name": "Shido App",
     "category": "Mobile Wallets",
     "imageUrlSm": "https://explorer-api.walletconnect.com/v3/logo/sm/673b4fdc-8c65-41e0-d0f8-c2eb6c8e5500?projectId=2f05ae7f1116030fde2d36508f472bfb",
@@ -2322,7 +2313,7 @@
     "appType": "wallet"
   },
   {
-    "srNo": 259,
+    "srNo": 258,
     "name": "Life DeFi",
     "category": "Mobile Wallets",
     "imageUrlSm": "https://explorer-api.walletconnect.com/v3/logo/sm/d249af4f-e9b8-498d-cbc3-9eab04568700?projectId=2f05ae7f1116030fde2d36508f472bfb",
@@ -2331,7 +2322,7 @@
     "appType": "wallet"
   },
   {
-    "srNo": 260,
+    "srNo": 259,
     "name": "Tobi",
     "category": "MPC-based wallets",
     "imageUrlSm": "https://explorer-api.walletconnect.com/v3/logo/sm/3cd2d066-56f7-4272-4a98-b39b41ea8200?projectId=2f05ae7f1116030fde2d36508f472bfb",
@@ -2340,7 +2331,7 @@
     "appType": "wallet"
   },
   {
-    "srNo": 261,
+    "srNo": 260,
     "name": "tomo extension wallet",
     "category": "Injected Wallets",
     "imageUrlSm": "https://explorer-api.walletconnect.com/v3/logo/sm/27e33ac7-b846-446d-a126-b0820904f800?projectId=2f05ae7f1116030fde2d36508f472bfb",
@@ -2349,7 +2340,7 @@
     "appType": "wallet"
   },
   {
-    "srNo": 262,
+    "srNo": 261,
     "name": "Clot",
     "category": "Mobile Wallets",
     "imageUrlSm": "https://explorer-api.walletconnect.com/v3/logo/sm/a7d2716d-69b8-4422-9797-ed63b1f9c000?projectId=2f05ae7f1116030fde2d36508f472bfb",
@@ -2358,7 +2349,7 @@
     "appType": "wallet"
   },
   {
-    "srNo": 263,
+    "srNo": 262,
     "name": "GUARDIIAN Wallet",
     "category": "Mobile Wallets",
     "imageUrlSm": "https://explorer-api.walletconnect.com/v3/logo/sm/4f095c1d-8a31-4af8-ab58-57e82a398e00?projectId=2f05ae7f1116030fde2d36508f472bfb",
@@ -2367,7 +2358,7 @@
     "appType": "wallet"
   },
   {
-    "srNo": 264,
+    "srNo": 263,
     "name": "SafeMoon",
     "category": "Mobile Wallets",
     "imageUrlSm": "https://explorer-api.walletconnect.com/v3/logo/sm/ea0140c7-787c-43a4-838f-d5ab6a342000?projectId=2f05ae7f1116030fde2d36508f472bfb",
@@ -2376,7 +2367,7 @@
     "appType": "wallet"
   },
   {
-    "srNo": 265,
+    "srNo": 264,
     "name": "Tofee Wallet Official",
     "category": "Mobile Wallets",
     "imageUrlSm": "https://explorer-api.walletconnect.com/v3/logo/sm/d4dbb723-b1ec-4cfc-daab-1d559a151f00?projectId=2f05ae7f1116030fde2d36508f472bfb",
@@ -2385,12 +2376,39 @@
     "appType": "wallet"
   },
   {
-    "srNo": 266,
+    "srNo": 265,
     "name": "Web3Auth",
     "category": "Web App Wallets",
     "imageUrlSm": "https://explorer-api.walletconnect.com/v3/logo/sm/4ea2e98a-e5e3-42d3-b588-301047963200?projectId=2f05ae7f1116030fde2d36508f472bfb",
     "imageUrlMd": "https://explorer-api.walletconnect.com/v3/logo/md/4ea2e98a-e5e3-42d3-b588-301047963200?projectId=2f05ae7f1116030fde2d36508f472bfb",
     "imageUrlLg": "https://explorer-api.walletconnect.com/v3/logo/md/4ea2e98a-e5e3-42d3-b588-301047963200?projectId=2f05ae7f1116030fde2d36508f472bfb",
+    "appType": "wallet"
+  },
+  {
+    "srNo": 266,
+    "name": "WOW EARN",
+    "category": "Desktop Wallets",
+    "imageUrlSm": "https://explorer-api.walletconnect.com/v3/logo/sm/c6a0d4b8-ef30-4d06-4f9e-4a6d6169e800?projectId=2f05ae7f1116030fde2d36508f472bfb",
+    "imageUrlMd": "https://explorer-api.walletconnect.com/v3/logo/md/c6a0d4b8-ef30-4d06-4f9e-4a6d6169e800?projectId=2f05ae7f1116030fde2d36508f472bfb",
+    "imageUrlLg": "https://explorer-api.walletconnect.com/v3/logo/md/c6a0d4b8-ef30-4d06-4f9e-4a6d6169e800?projectId=2f05ae7f1116030fde2d36508f472bfb",
+    "appType": "wallet"
+  },
+  {
+    "srNo": 267,
+    "name": "Zypto",
+    "category": "Mobile Wallets",
+    "imageUrlSm": "https://explorer-api.walletconnect.com/v3/logo/sm/4f6ae851-7fe6-41ac-5714-3a910b2ff400?projectId=2f05ae7f1116030fde2d36508f472bfb",
+    "imageUrlMd": "https://explorer-api.walletconnect.com/v3/logo/md/4f6ae851-7fe6-41ac-5714-3a910b2ff400?projectId=2f05ae7f1116030fde2d36508f472bfb",
+    "imageUrlLg": "https://explorer-api.walletconnect.com/v3/logo/md/4f6ae851-7fe6-41ac-5714-3a910b2ff400?projectId=2f05ae7f1116030fde2d36508f472bfb",
+    "appType": "wallet"
+  },
+  {
+    "srNo": 268,
+    "name": "Orion",
+    "category": "Mobile Wallets",
+    "imageUrlSm": "https://explorer-api.walletconnect.com/v3/logo/sm/85007828-9522-4517-6a55-6f376de8a500?projectId=2f05ae7f1116030fde2d36508f472bfb",
+    "imageUrlMd": "https://explorer-api.walletconnect.com/v3/logo/md/85007828-9522-4517-6a55-6f376de8a500?projectId=2f05ae7f1116030fde2d36508f472bfb",
+    "imageUrlLg": "https://explorer-api.walletconnect.com/v3/logo/md/85007828-9522-4517-6a55-6f376de8a500?projectId=2f05ae7f1116030fde2d36508f472bfb",
     "appType": "wallet"
   }
 ]
