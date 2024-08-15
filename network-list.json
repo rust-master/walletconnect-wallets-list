@@ -1,0 +1,7538 @@
+[
+  {
+    "Name": "Ethereum",
+    "TokenName": "ETH",
+    "ChainId": "eip155:1",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Expanse Network",
+    "TokenName": "EXP",
+    "ChainId": "eip155:2",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Ropsten",
+    "TokenName": "ETH",
+    "ChainId": "eip155:3",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Rinkeby",
+    "TokenName": "ETH",
+    "ChainId": "eip155:4",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Goerli",
+    "TokenName": "ETH",
+    "ChainId": "eip155:5",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "ThaiChain",
+    "TokenName": "TCH",
+    "ChainId": "eip155:7",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Ubiq",
+    "TokenName": "UBQ",
+    "ChainId": "eip155:8",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "OP Mainnet",
+    "TokenName": "ETH",
+    "ChainId": "eip155:10",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Metadium Mainnet",
+    "TokenName": "META",
+    "ChainId": "eip155:11",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Flare Mainnet",
+    "TokenName": "FLR",
+    "ChainId": "eip155:14",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Diode Prenet",
+    "TokenName": "DIODE",
+    "ChainId": "eip155:15",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "ThaiChain 2.0 ThaiFi",
+    "TokenName": "TFI",
+    "ChainId": "eip155:17",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Songbird Canary-Network",
+    "TokenName": "SGB",
+    "ChainId": "eip155:19",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Elastos Smart Chain",
+    "TokenName": "ELA",
+    "ChainId": "eip155:20",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Cronos Mainnet",
+    "TokenName": "CRO",
+    "ChainId": "eip155:25",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "ShibaChain",
+    "TokenName": "SHIB",
+    "ChainId": "eip155:27",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Genesis L1",
+    "TokenName": "L1",
+    "ChainId": "eip155:29",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Rootstock Mainnet",
+    "TokenName": "RBTC",
+    "ChainId": "eip155:30",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "GoodData Mainnet",
+    "TokenName": "GooD",
+    "ChainId": "eip155:33",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "TBWG Chain",
+    "TokenName": "TBG",
+    "ChainId": "eip155:35",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Dxchain Mainnet",
+    "TokenName": "DX",
+    "ChainId": "eip155:36",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Valorbit",
+    "TokenName": "VAL",
+    "ChainId": "eip155:38",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "U2U Solaris Mainnet",
+    "TokenName": "U2U",
+    "ChainId": "eip155:39",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Telos EVM Mainnet",
+    "TokenName": "TLOS",
+    "ChainId": "eip155:40",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Crab Network",
+    "TokenName": "CRAB",
+    "ChainId": "eip155:44",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Darwinia Network",
+    "TokenName": "RING",
+    "ChainId": "eip155:46",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Acria IntelliChain",
+    "TokenName": "ACRIA",
+    "ChainId": "eip155:47",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Ennothem Mainnet Proterozoic",
+    "TokenName": "ETMP",
+    "ChainId": "eip155:48",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "XDC Network",
+    "TokenName": "XDC",
+    "ChainId": "eip155:50",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "XDC Apothem Network",
+    "TokenName": "TXDC",
+    "ChainId": "eip155:51",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "CoinEx Smart Chain Mainnet",
+    "TokenName": "cet",
+    "ChainId": "eip155:52",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Openpiece Mainnet",
+    "TokenName": "BELLY",
+    "ChainId": "eip155:54",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Zyx Mainnet",
+    "TokenName": "ZYX",
+    "ChainId": "eip155:55",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "BNB Chain",
+    "TokenName": "BNB",
+    "ChainId": "eip155:56",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Syscoin Mainnet",
+    "TokenName": "SYS",
+    "ChainId": "eip155:57",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Ontology Mainnet",
+    "TokenName": "ONG",
+    "ChainId": "eip155:58",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "GoChain",
+    "TokenName": "GO",
+    "ChainId": "eip155:60",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Ethereum Classic",
+    "TokenName": "ETC",
+    "ChainId": "eip155:61",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Ellaism",
+    "TokenName": "ELLA",
+    "ChainId": "eip155:64",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "OKXChain Mainnet",
+    "TokenName": "OKT",
+    "ChainId": "eip155:66",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "SoterOne Mainnet",
+    "TokenName": "SOTER",
+    "ChainId": "eip155:68",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Optimism Kovan",
+    "TokenName": "ETH",
+    "ChainId": "eip155:69",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Hoo Smart Chain",
+    "TokenName": "HOO",
+    "ChainId": "eip155:70",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Conflux eSpace (Testnet)",
+    "TokenName": "CFX",
+    "ChainId": "eip155:71",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "FNCY",
+    "TokenName": "FNCY",
+    "ChainId": "eip155:73",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "IDChain Mainnet",
+    "TokenName": "EIDI",
+    "ChainId": "eip155:74",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Decimal Smart Chain Mainnet",
+    "TokenName": "DEL",
+    "ChainId": "eip155:75",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Mix",
+    "TokenName": "MIX",
+    "ChainId": "eip155:76",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "POA Network Sokol",
+    "TokenName": "SPOA",
+    "ChainId": "eip155:77",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "PrimusChain mainnet",
+    "TokenName": "PETH",
+    "ChainId": "eip155:78",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Zenith Mainnet",
+    "TokenName": "ZENITH",
+    "ChainId": "eip155:79",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "GeneChain",
+    "TokenName": "RNA",
+    "ChainId": "eip155:80",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Meter Mainnet",
+    "TokenName": "MTR",
+    "ChainId": "eip155:82",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "GateChain Mainnet",
+    "TokenName": "GT",
+    "ChainId": "eip155:86",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Nova Network",
+    "TokenName": "SNT",
+    "ChainId": "eip155:87",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Viction",
+    "TokenName": "VIC",
+    "ChainId": "eip155:88",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Garizon Stage0",
+    "TokenName": "GAR",
+    "ChainId": "eip155:90",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Garizon Stage1",
+    "TokenName": "GAR",
+    "ChainId": "eip155:91",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Garizon Stage2",
+    "TokenName": "GAR",
+    "ChainId": "eip155:92",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Garizon Stage3",
+    "TokenName": "GAR",
+    "ChainId": "eip155:93",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "SwissDLT",
+    "TokenName": "BCTS",
+    "ChainId": "eip155:94",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Six Protocol",
+    "TokenName": "SIX",
+    "ChainId": "eip155:98",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "POA Network Core",
+    "TokenName": "POA",
+    "ChainId": "eip155:99",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Gnosis",
+    "TokenName": "XDAI",
+    "ChainId": "eip155:100",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "EtherInc",
+    "TokenName": "ETI",
+    "ChainId": "eip155:101",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "WorldLand Mainnet",
+    "TokenName": "WLC",
+    "ChainId": "eip155:103",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Velas EVM Mainnet",
+    "TokenName": "VLX",
+    "ChainId": "eip155:106",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "ThunderCore Mainnet",
+    "TokenName": "TT",
+    "ChainId": "eip155:108",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Shibarium",
+    "TokenName": "BONE",
+    "ChainId": "eip155:109",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "EtherLite Chain",
+    "TokenName": "ETL",
+    "ChainId": "eip155:111",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Coinbit Mainnet",
+    "TokenName": "GIDR",
+    "ChainId": "eip155:112",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Dehvo",
+    "TokenName": "Deh",
+    "ChainId": "eip155:113",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Uptick Mainnet",
+    "TokenName": "UPTICK",
+    "ChainId": "eip155:117",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "ENULS Mainnet",
+    "TokenName": "NULS",
+    "ChainId": "eip155:119",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Realchain Mainnet",
+    "TokenName": "REAL",
+    "ChainId": "eip155:121",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Fuse Mainnet",
+    "TokenName": "FUSE",
+    "ChainId": "eip155:122",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Fuse Sparknet",
+    "TokenName": "SPARK",
+    "ChainId": "eip155:123",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Decentralized Web Mainnet",
+    "TokenName": "DWU",
+    "ChainId": "eip155:124",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "OYchain Mainnet",
+    "TokenName": "OY",
+    "ChainId": "eip155:126",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Huobi ECO Chain Mainnet",
+    "TokenName": "HT",
+    "ChainId": "eip155:128",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Innovator Chain",
+    "TokenName": "INOV8",
+    "ChainId": "eip155:129",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Namefi Chain Mainnet",
+    "TokenName": "NFIC",
+    "ChainId": "eip155:132",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "iExec Sidechain",
+    "TokenName": "xRLC",
+    "ChainId": "eip155:134",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Deamchain Mainnet",
+    "TokenName": "DEAM",
+    "ChainId": "eip155:136",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Polygon Mainnet",
+    "TokenName": "MATIC",
+    "ChainId": "eip155:137",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Defi Oracle Meta Mainnet",
+    "TokenName": "ETH",
+    "ChainId": "eip155:138",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "WoopChain Mainnet",
+    "TokenName": "WOOC",
+    "ChainId": "eip155:139",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Eternal Mainnet",
+    "TokenName": "Eter",
+    "ChainId": "eip155:140",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "DAX CHAIN",
+    "TokenName": "DAX",
+    "ChainId": "eip155:142",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "PHI Network v2",
+    "TokenName": "Φ",
+    "ChainId": "eip155:144",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Flag Mainnet",
+    "TokenName": "FLAG",
+    "ChainId": "eip155:147",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "ShimmerEVM",
+    "TokenName": "SMR",
+    "ChainId": "eip155:148",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Puppynet Shibarium",
+    "TokenName": "BONE",
+    "ChainId": "eip155:157",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Roburna Mainnet",
+    "TokenName": "RBA",
+    "ChainId": "eip155:158",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Armonia Eva Chain Mainnet",
+    "TokenName": "AMAX",
+    "ChainId": "eip155:160",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Lightstreams Mainnet",
+    "TokenName": "PHT",
+    "ChainId": "eip155:163",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Omni Omega",
+    "TokenName": "OMNI",
+    "ChainId": "eip155:164",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "AIOZ Network",
+    "TokenName": "AIOZ",
+    "ChainId": "eip155:168",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Manta Pacific Mainnet",
+    "TokenName": "ETH",
+    "ChainId": "eip155:169",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "DC Mainnet",
+    "TokenName": "DCT",
+    "ChainId": "eip155:176",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "ABEY Mainnet",
+    "TokenName": "ABEY",
+    "ChainId": "eip155:179",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "AME Chain Mainnet",
+    "TokenName": "AME",
+    "ChainId": "eip155:180",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Waterfall Network",
+    "TokenName": "WATER",
+    "ChainId": "eip155:181",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Mint Mainnet",
+    "TokenName": "ETH",
+    "ChainId": "eip155:185",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Seele Mainnet",
+    "TokenName": "Seele",
+    "ChainId": "eip155:186",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Dojima",
+    "TokenName": "DOJ",
+    "ChainId": "eip155:187",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "BMC Mainnet",
+    "TokenName": "BTM",
+    "ChainId": "eip155:188",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "CMDAO BBQ Chain",
+    "TokenName": "CMD",
+    "ChainId": "eip155:190",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "FileFileGo",
+    "TokenName": "FFG",
+    "ChainId": "eip155:191",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Crypto Emergency",
+    "TokenName": "CEM",
+    "ChainId": "eip155:193",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "X Layer Mainnet",
+    "TokenName": "OKB",
+    "ChainId": "eip155:196",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Bitchain Mainnet",
+    "TokenName": "BTC",
+    "ChainId": "eip155:198",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "BitTorrent Chain Mainnet",
+    "TokenName": "BTT",
+    "ChainId": "eip155:199",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Arbitrum on xDai",
+    "TokenName": "xDAI",
+    "ChainId": "eip155:200",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "opBNB Mainnet",
+    "TokenName": "BNB",
+    "ChainId": "eip155:204",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "VinuChain Network",
+    "TokenName": "VC",
+    "ChainId": "eip155:207",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Structx Mainnet",
+    "TokenName": "utx",
+    "ChainId": "eip155:208",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Bitnet",
+    "TokenName": "BTN",
+    "ChainId": "eip155:210",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Freight Trust Network",
+    "TokenName": "0xF",
+    "ChainId": "eip155:211",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "MAPO Makalu",
+    "TokenName": "MAPO",
+    "ChainId": "eip155:212",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "B2 Hub Mainnet",
+    "TokenName": "B2",
+    "ChainId": "eip155:213",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Shinarium Mainnet",
+    "TokenName": "SHI",
+    "ChainId": "eip155:214",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "SiriusNet V2",
+    "TokenName": "MCD",
+    "ChainId": "eip155:217",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "BlockEx Mainnet",
+    "TokenName": "XBE",
+    "ChainId": "eip155:221",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "B2 Mainnet",
+    "TokenName": "BTC",
+    "ChainId": "eip155:223",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "LACHAIN Mainnet",
+    "TokenName": "LA",
+    "ChainId": "eip155:225",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Mind Network Mainnet",
+    "TokenName": "FHE",
+    "ChainId": "eip155:228",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "SwapDEX",
+    "TokenName": "SDX",
+    "ChainId": "eip155:230",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Blast Mainnet",
+    "TokenName": "ETH",
+    "ChainId": "eip155:238",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Plinga Mainnet",
+    "TokenName": "PLINGA",
+    "ChainId": "eip155:242",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Energy Web Chain",
+    "TokenName": "EWT",
+    "ChainId": "eip155:246",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Oasys Mainnet",
+    "TokenName": "OAS",
+    "ChainId": "eip155:248",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Fantom Opera",
+    "TokenName": "FTM",
+    "ChainId": "eip155:250",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Fraxtal",
+    "TokenName": "frxETH",
+    "ChainId": "eip155:252",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Swan Chain Mainnet",
+    "TokenName": "sETH",
+    "ChainId": "eip155:254",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Kroma",
+    "TokenName": "ETH",
+    "ChainId": "eip155:255",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Neonlink Mainnet",
+    "TokenName": "NEON",
+    "ChainId": "eip155:259",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "SUR Blockchain Network",
+    "TokenName": "SRN",
+    "ChainId": "eip155:262",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "High Performance Blockchain",
+    "TokenName": "HPB",
+    "ChainId": "eip155:269",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "EgonCoin Mainnet",
+    "TokenName": "EGON",
+    "ChainId": "eip155:271",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "LaChain",
+    "TokenName": "LAC",
+    "ChainId": "eip155:274",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "xFair.AI Mainnet",
+    "TokenName": "FAI",
+    "ChainId": "eip155:278",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "BPX Blockchain",
+    "TokenName": "BPX",
+    "ChainId": "eip155:279",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Boba Network",
+    "TokenName": "ETH",
+    "ChainId": "eip155:288",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Orderly Mainnet",
+    "TokenName": "ETH",
+    "ChainId": "eip155:291",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Hedera Mainnet",
+    "TokenName": "HBAR",
+    "ChainId": "eip155:295",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Hedera Previewnet",
+    "TokenName": "HBAR",
+    "ChainId": "eip155:297",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "ZKSats Mainnet",
+    "TokenName": "BTC",
+    "ChainId": "eip155:305",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Furtheon",
+    "TokenName": "FTH",
+    "ChainId": "eip155:308",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Omax Mainnet",
+    "TokenName": "OMAX",
+    "ChainId": "eip155:311",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Neurochain Mainnet",
+    "TokenName": "NCN",
+    "ChainId": "eip155:313",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Filecoin - Mainnet",
+    "TokenName": "FIL",
+    "ChainId": "eip155:314",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "KCC Mainnet",
+    "TokenName": "KCS",
+    "ChainId": "eip155:321",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Cosvm Mainnet",
+    "TokenName": "CVM",
+    "ChainId": "eip155:323",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "zkSync Mainnet",
+    "TokenName": "ETH",
+    "ChainId": "eip155:324",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Web3Q Mainnet",
+    "TokenName": "W3Q",
+    "ChainId": "eip155:333",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Shiden",
+    "TokenName": "SDN",
+    "ChainId": "eip155:336",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "TSC Mainnet",
+    "TokenName": "TAS",
+    "ChainId": "eip155:345",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Theta Mainnet",
+    "TokenName": "TFUEL",
+    "ChainId": "eip155:361",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "PulseChain",
+    "TokenName": "PLS",
+    "ChainId": "eip155:369",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "ZKAmoeba Mainnet",
+    "TokenName": "FIL",
+    "ChainId": "eip155:381",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Lisinski",
+    "TokenName": "LISINS",
+    "ChainId": "eip155:385",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Cronos zkEVM Mainnet",
+    "TokenName": "zkCRO",
+    "ChainId": "eip155:388",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Nativ3 Mainnet",
+    "TokenName": "USNT",
+    "ChainId": "eip155:399",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Syndr L3",
+    "TokenName": "ETH",
+    "ChainId": "eip155:404",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Pepe Chain Mainnet",
+    "TokenName": "PEPE",
+    "ChainId": "eip155:411",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "SX Network Mainnet",
+    "TokenName": "SX",
+    "ChainId": "eip155:416",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "LaTestnet",
+    "TokenName": "TLA",
+    "ChainId": "eip155:418",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Viridis Mainnet",
+    "TokenName": "VRD",
+    "ChainId": "eip155:422",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "PGN (Public Goods Network)",
+    "TokenName": "ETH",
+    "ChainId": "eip155:424",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Zeeth Chain",
+    "TokenName": "ZTH",
+    "ChainId": "eip155:427",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Geso Verse",
+    "TokenName": "OAS",
+    "ChainId": "eip155:428",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Boyaa Mainnet",
+    "TokenName": "BYC",
+    "ChainId": "eip155:434",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "ARZIO Chain",
+    "TokenName": "AZO",
+    "ChainId": "eip155:456",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Areon Network Mainnet",
+    "TokenName": "AREA",
+    "ChainId": "eip155:463",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Camino C-Chain",
+    "TokenName": "CAM",
+    "ChainId": "eip155:500",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Syndicate Chain",
+    "TokenName": "ETH",
+    "ChainId": "eip155:510",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Double-A Chain Mainnet",
+    "TokenName": "AAC",
+    "ChainId": "eip155:512",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Gear Zero Network Mainnet",
+    "TokenName": "GZN",
+    "ChainId": "eip155:516",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "XT Smart Chain Mainnet",
+    "TokenName": "XT",
+    "ChainId": "eip155:520",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Firechain Mainnet",
+    "TokenName": "FIRE",
+    "ChainId": "eip155:529",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "F(x)Core Mainnet Network",
+    "TokenName": "FX",
+    "ChainId": "eip155:530",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Candle",
+    "TokenName": "CNDL",
+    "ChainId": "eip155:534",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "OpTrust Mainnet",
+    "TokenName": "BNB",
+    "ChainId": "eip155:537",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Vela1 Chain Mainnet",
+    "TokenName": "CLASS",
+    "ChainId": "eip155:555",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Tao Network",
+    "TokenName": "TAO",
+    "ChainId": "eip155:558",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Rollux Mainnet",
+    "TokenName": "SYS",
+    "ChainId": "eip155:570",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "MetaChain Mainnet",
+    "TokenName": "MTC",
+    "ChainId": "eip155:571",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Filenova Mainnet",
+    "TokenName": "FIL",
+    "ChainId": "eip155:579",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Astar",
+    "TokenName": "ASTR",
+    "ChainId": "eip155:592",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "EIOB Mainnet",
+    "TokenName": "EIOB",
+    "ChainId": "eip155:612",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Graphlinq Blockchain Mainnet",
+    "TokenName": "GLQ",
+    "ChainId": "eip155:614",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Binary Mainnet",
+    "TokenName": "BNRY",
+    "ChainId": "eip155:624",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Binary Sepolia",
+    "TokenName": "BNRY",
+    "ChainId": "eip155:625",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Avocado",
+    "TokenName": "USDC",
+    "ChainId": "eip155:634",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Previewnet",
+    "TokenName": "FLOW",
+    "ChainId": "eip155:646",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Endurance Smart Chain Mainnet",
+    "TokenName": "ACE",
+    "ChainId": "eip155:648",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Kalichain",
+    "TokenName": "KALIS",
+    "ChainId": "eip155:654",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "UltronSmartchain",
+    "TokenName": "ULC",
+    "ChainId": "eip155:662",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "LAOS Arrakis",
+    "TokenName": "LAOS",
+    "ChainId": "eip155:667",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "JuncaChain",
+    "TokenName": "JGC",
+    "ChainId": "eip155:668",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Karura Network",
+    "TokenName": "KAR",
+    "ChainId": "eip155:686",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Redstone",
+    "TokenName": "ETH",
+    "ChainId": "eip155:690",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "BlockChain Station Mainnet",
+    "TokenName": "BCS",
+    "ChainId": "eip155:707",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Highbury",
+    "TokenName": "FURY",
+    "ChainId": "eip155:710",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Vrcscan Mainnet",
+    "TokenName": "VRC",
+    "ChainId": "eip155:713",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Shibarium Beta",
+    "TokenName": "BONE",
+    "ChainId": "eip155:719",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Lycan Chain",
+    "TokenName": "LYC",
+    "ChainId": "eip155:721",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Blucrates",
+    "TokenName": "BLU",
+    "ChainId": "eip155:727",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Lovely Network Mainnet",
+    "TokenName": "LOVELY",
+    "ChainId": "eip155:730",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Mainnet",
+    "TokenName": "FLOW",
+    "ChainId": "eip155:747",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "QL1",
+    "TokenName": "QOM",
+    "ChainId": "eip155:766",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "cheapETH",
+    "TokenName": "cTH",
+    "ChainId": "eip155:777",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "MAAL Chain",
+    "TokenName": "MAAL",
+    "ChainId": "eip155:786",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Acala Network",
+    "TokenName": "ACA",
+    "ChainId": "eip155:787",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Patex",
+    "TokenName": "ETH",
+    "ChainId": "eip155:789",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Lucid Blockchain",
+    "TokenName": "LUCID",
+    "ChainId": "eip155:800",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Haic",
+    "TokenName": "HAIC",
+    "ChainId": "eip155:803",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Qitmeer Network Mainnet",
+    "TokenName": "MEER",
+    "ChainId": "eip155:813",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Firechain zkEVM",
+    "TokenName": "ETH",
+    "ChainId": "eip155:814",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "BeOne Chain Mainnet",
+    "TokenName": "BOC",
+    "ChainId": "eip155:818",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Callisto Mainnet",
+    "TokenName": "CLO",
+    "ChainId": "eip155:820",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Taraxa Mainnet",
+    "TokenName": "TARA",
+    "ChainId": "eip155:841",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "HongKong Mainnet",
+    "TokenName": "HK",
+    "ChainId": "eip155:852",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Fantasia Chain Mainnet",
+    "TokenName": "FST",
+    "ChainId": "eip155:868",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Bandai Namco Research Verse Mainnet",
+    "TokenName": "OAS",
+    "ChainId": "eip155:876",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Dexit Network",
+    "TokenName": "DXT",
+    "ChainId": "eip155:877",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Ambros Chain Mainnet",
+    "TokenName": "AMBROS",
+    "ChainId": "eip155:880",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Wanchain",
+    "TokenName": "WAN",
+    "ChainId": "eip155:888",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "MAXI Chain Mainnet",
+    "TokenName": "MGAS",
+    "ChainId": "eip155:899",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "TAPROOT Mainnet",
+    "TokenName": "TBTC",
+    "ChainId": "eip155:911",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Yidark Chain Mainnet",
+    "TokenName": "YDK",
+    "ChainId": "eip155:927",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Lyra Chain",
+    "TokenName": "ETH",
+    "ChainId": "eip155:957",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "BTC20 Smart Chain",
+    "TokenName": "BTCC",
+    "ChainId": "eip155:963",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "EthXY",
+    "TokenName": "SEXY",
+    "ChainId": "eip155:969",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Oort Mainnet",
+    "TokenName": "OORT",
+    "ChainId": "eip155:970",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Oort Ascraeus",
+    "TokenName": "CCNA",
+    "ChainId": "eip155:972",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Nepal Blockchain Network",
+    "TokenName": "YETI",
+    "ChainId": "eip155:977",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "TOP Mainnet EVM",
+    "TokenName": "ETH",
+    "ChainId": "eip155:980",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Memo Smart Chain Mainnet",
+    "TokenName": "CMEMO",
+    "ChainId": "eip155:985",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "BinaryChain Mainnet",
+    "TokenName": "BNRY",
+    "ChainId": "eip155:987",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "eLiberty Mainnet",
+    "TokenName": "$EL",
+    "ChainId": "eip155:990",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "5ireChain Mainnet",
+    "TokenName": "5IRE",
+    "ChainId": "eip155:995",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "5ireChain Thunder",
+    "TokenName": "T5IRE",
+    "ChainId": "eip155:997",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Lucky Network",
+    "TokenName": "L99",
+    "ChainId": "eip155:998",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "GTON Mainnet",
+    "TokenName": "GCD",
+    "ChainId": "eip155:1000",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Tectum Emission Token",
+    "TokenName": "TET",
+    "ChainId": "eip155:1003",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "T-EKTA",
+    "TokenName": "T-EKTA",
+    "ChainId": "eip155:1004",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Eurus Mainnet",
+    "TokenName": "EUN",
+    "ChainId": "eip155:1008",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Jumbochain Mainnet",
+    "TokenName": "JNFTC",
+    "ChainId": "eip155:1009",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Evrice Network",
+    "TokenName": "EVC",
+    "ChainId": "eip155:1010",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Rebus Mainnet",
+    "TokenName": "REBUS",
+    "ChainId": "eip155:1011",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Newton",
+    "TokenName": "NEW",
+    "ChainId": "eip155:1012",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "CLV Parachain",
+    "TokenName": "CLV",
+    "ChainId": "eip155:1024",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Conflux eSpace",
+    "TokenName": "CFX",
+    "ChainId": "eip155:1030",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Mintara Mainnet",
+    "TokenName": "MNTR",
+    "ChainId": "eip155:1080",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Metis Andromeda Mainnet",
+    "TokenName": "METIS",
+    "ChainId": "eip155:1088",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Humans.ai Mainnet",
+    "TokenName": "HEART",
+    "ChainId": "eip155:1089",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Dymension",
+    "TokenName": "DYM",
+    "ChainId": "eip155:1100",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Polygon zkEVM",
+    "TokenName": "ETH",
+    "ChainId": "eip155:1101",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "BLXq Mainnet",
+    "TokenName": "BLXQ",
+    "ChainId": "eip155:1108",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "WEMIX3.0 Mainnet",
+    "TokenName": "WEMIX",
+    "ChainId": "eip155:1111",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Core Blockchain Mainnet",
+    "TokenName": "CORE",
+    "ChainId": "eip155:1116",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Dogcoin Mainnet",
+    "TokenName": "DOGS",
+    "ChainId": "eip155:1117",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Lisk",
+    "TokenName": "ETH",
+    "ChainId": "eip155:1135",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "MathChain",
+    "TokenName": "MATH",
+    "ChainId": "eip155:1139",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Symplexia Smart Chain",
+    "TokenName": "PLEX",
+    "ChainId": "eip155:1149",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "ClubMos Mainnet",
+    "TokenName": "MOS",
+    "ChainId": "eip155:1188",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Iora Chain",
+    "TokenName": "IORA",
+    "ChainId": "eip155:1197",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Cuckoo Chain",
+    "TokenName": "CAI",
+    "ChainId": "eip155:1200",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "World Trade Technical Chain Mainnet",
+    "TokenName": "WTT",
+    "ChainId": "eip155:1202",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "SaitaBlockChain(SBC)",
+    "TokenName": "STC",
+    "ChainId": "eip155:1209",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Cuckoo Sepolia",
+    "TokenName": "CAI",
+    "ChainId": "eip155:1210",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Popcateum Mainnet",
+    "TokenName": "POP",
+    "ChainId": "eip155:1213",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "EnterChain Mainnet",
+    "TokenName": "ENTER",
+    "ChainId": "eip155:1214",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Exzo Network Mainnet",
+    "TokenName": "XZO",
+    "ChainId": "eip155:1229",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Ultron Mainnet",
+    "TokenName": "ULX",
+    "ChainId": "eip155:1231",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Step Network",
+    "TokenName": "FITFI",
+    "ChainId": "eip155:1234",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "ITX Mainnet",
+    "TokenName": "ITX",
+    "ChainId": "eip155:1235",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "ARC Mainnet",
+    "TokenName": "ARC",
+    "ChainId": "eip155:1243",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "OM Platform Mainnet",
+    "TokenName": "OM",
+    "ChainId": "eip155:1246",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Dogether Mainnet",
+    "TokenName": "dogeth",
+    "ChainId": "eip155:1248",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "HALO Mainnet",
+    "TokenName": "HO",
+    "ChainId": "eip155:1280",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Moonbeam",
+    "TokenName": "GLMR",
+    "ChainId": "eip155:1284",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Moonriver",
+    "TokenName": "MOVR",
+    "ChainId": "eip155:1285",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Moonbase Alpha",
+    "TokenName": "DEV",
+    "ChainId": "eip155:1287",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Moonrock",
+    "TokenName": "ROC",
+    "ChainId": "eip155:1288",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Dos Fuji Subnet",
+    "TokenName": "DOS",
+    "ChainId": "eip155:1311",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "JaiHo Chain",
+    "TokenName": "JaiHo",
+    "ChainId": "eip155:1313",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Alyx Mainnet",
+    "TokenName": "ALYX",
+    "ChainId": "eip155:1314",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "AIA Mainnet",
+    "TokenName": "AIA",
+    "ChainId": "eip155:1319",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Sei Network",
+    "TokenName": "SEI",
+    "ChainId": "eip155:1329",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Elysium Mainnet",
+    "TokenName": "LAVA",
+    "ChainId": "eip155:1339",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Blitz Subnet",
+    "TokenName": "BGAS",
+    "ChainId": "eip155:1343",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "CIC Chain Mainnet",
+    "TokenName": "CIC",
+    "ChainId": "eip155:1353",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Zafirium Mainnet",
+    "TokenName": "ZAFIC",
+    "ChainId": "eip155:1369",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Ramestta Mainnet",
+    "TokenName": "RAMA",
+    "ChainId": "eip155:1370",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Kalar Chain",
+    "TokenName": "KLC",
+    "ChainId": "eip155:1379",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "AmStar Mainnet",
+    "TokenName": "SINSO",
+    "ChainId": "eip155:1388",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Joseon Mainnet",
+    "TokenName": "JSM",
+    "ChainId": "eip155:1392",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Rikeza Network Mainnet",
+    "TokenName": "RIK",
+    "ChainId": "eip155:1433",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Living Assets Mainnet",
+    "TokenName": "LAS",
+    "ChainId": "eip155:1440",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "MetaChain Istanbul",
+    "TokenName": "MTC",
+    "ChainId": "eip155:1453",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Ctex Scan Blockchain",
+    "TokenName": "CTEX",
+    "ChainId": "eip155:1455",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Vitruveo Mainnet",
+    "TokenName": "VTRU",
+    "ChainId": "eip155:1490",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "BEVM Canary",
+    "TokenName": "BTC",
+    "ChainId": "eip155:1501",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Sherpax Mainnet",
+    "TokenName": "KSX",
+    "ChainId": "eip155:1506",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Beagle Messaging Chain",
+    "TokenName": "BG",
+    "ChainId": "eip155:1515",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Tenet",
+    "TokenName": "TENET",
+    "ChainId": "eip155:1559",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "StarCHAIN",
+    "TokenName": "STARX",
+    "ChainId": "eip155:1578",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Ethereum Inscription Mainnet",
+    "TokenName": "ETINS",
+    "ChainId": "eip155:1617",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Catecoin Chain Mainnet",
+    "TokenName": "CATE",
+    "ChainId": "eip155:1618",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Atheios",
+    "TokenName": "ATH",
+    "ChainId": "eip155:1620",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Gravity Alpha Mainnet",
+    "TokenName": "G.",
+    "ChainId": "eip155:1625",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Pivotal Mainnet",
+    "TokenName": "PLUS",
+    "ChainId": "eip155:1648",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Btachain",
+    "TokenName": "BTA",
+    "ChainId": "eip155:1657",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "LUDAN Mainnet",
+    "TokenName": "LUDAN",
+    "ChainId": "eip155:1688",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Anytype EVM Chain",
+    "TokenName": "ANY",
+    "ChainId": "eip155:1701",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "TBSI Mainnet",
+    "TokenName": "JINDA",
+    "ChainId": "eip155:1707",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Doric Network",
+    "TokenName": "DRC",
+    "ChainId": "eip155:1717",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Palette Chain Mainnet",
+    "TokenName": "PLT",
+    "ChainId": "eip155:1718",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Reya Network",
+    "TokenName": "ETH",
+    "ChainId": "eip155:1729",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Metal L2",
+    "TokenName": "ETH",
+    "ChainId": "eip155:1750",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "PartyChain",
+    "TokenName": "GRAMS",
+    "ChainId": "eip155:1773",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Gauss Mainnet",
+    "TokenName": "GANG",
+    "ChainId": "eip155:1777",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Kerleano",
+    "TokenName": "CRC",
+    "ChainId": "eip155:1804",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Cube Chain Mainnet",
+    "TokenName": "CUBE",
+    "ChainId": "eip155:1818",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Ruby Smart Chain MAINNET",
+    "TokenName": "RUBY",
+    "ChainId": "eip155:1821",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Teslafunds",
+    "TokenName": "TSF",
+    "ChainId": "eip155:1856",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Whitechain",
+    "TokenName": "WBT",
+    "ChainId": "eip155:1875",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Lightlink Phoenix Mainnet",
+    "TokenName": "ETH",
+    "ChainId": "eip155:1890",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "BON Network",
+    "TokenName": "BOY",
+    "ChainId": "eip155:1898",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Sports Chain Network",
+    "TokenName": "SCN",
+    "ChainId": "eip155:1904",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Bitcichain Mainnet",
+    "TokenName": "BITCI",
+    "ChainId": "eip155:1907",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Merkle Scan",
+    "TokenName": "MRK",
+    "ChainId": "eip155:1909",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Scalind",
+    "TokenName": "ETH",
+    "ChainId": "eip155:1911",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "D-Chain Mainnet",
+    "TokenName": "DOINX",
+    "ChainId": "eip155:1951",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Selendra Network Mainnet",
+    "TokenName": "SEL",
+    "ChainId": "eip155:1961",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Eleanor",
+    "TokenName": "MTC",
+    "ChainId": "eip155:1967",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Super Smart Chain Mainnet",
+    "TokenName": "SCS",
+    "ChainId": "eip155:1970",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Atelier",
+    "TokenName": "ATLR",
+    "ChainId": "eip155:1971",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "RedeCoin",
+    "TokenName": "REDEV2",
+    "ChainId": "eip155:1972",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "ONUS Chain Mainnet",
+    "TokenName": "ONUS",
+    "ChainId": "eip155:1975",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "SatoshIE",
+    "TokenName": "TUSHY",
+    "ChainId": "eip155:1985",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "EtherGem",
+    "TokenName": "EGEM",
+    "ChainId": "eip155:1987",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Hubble Exchange",
+    "TokenName": "USDC",
+    "ChainId": "eip155:1992",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Ekta",
+    "TokenName": "EKTA",
+    "ChainId": "eip155:1994",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Sanko",
+    "TokenName": "DMT",
+    "ChainId": "eip155:1996",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Kyoto",
+    "TokenName": "KYOTO",
+    "ChainId": "eip155:1997",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Dogechain Mainnet",
+    "TokenName": "DOGE",
+    "ChainId": "eip155:2000",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Milkomeda C1 Mainnet",
+    "TokenName": "mADA",
+    "ChainId": "eip155:2001",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Milkomeda A1 Mainnet",
+    "TokenName": "mALGO",
+    "ChainId": "eip155:2002",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "MetaLink Network",
+    "TokenName": "MTL",
+    "ChainId": "eip155:2004",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Panarchy",
+    "TokenName": "GAS",
+    "ChainId": "eip155:2013",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "MainnetZ Mainnet",
+    "TokenName": "NetZ",
+    "ChainId": "eip155:2016",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Adiri",
+    "TokenName": "TEL",
+    "ChainId": "eip155:2017",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "PublicMint Mainnet",
+    "TokenName": "USD",
+    "ChainId": "eip155:2020",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Edgeware EdgeEVM Mainnet",
+    "TokenName": "EDG",
+    "ChainId": "eip155:2021",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Rangers Protocol Mainnet",
+    "TokenName": "RPG",
+    "ChainId": "eip155:2025",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Edgeless Network",
+    "TokenName": "EwEth",
+    "ChainId": "eip155:2026",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Centrifuge",
+    "TokenName": "CFG",
+    "ChainId": "eip155:2031",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Kiwi Subnet",
+    "TokenName": "SHRAP",
+    "ChainId": "eip155:2037",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Vanar Mainnet",
+    "TokenName": "VANRY",
+    "ChainId": "eip155:2040",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "NeuroWeb",
+    "TokenName": "NEURO",
+    "ChainId": "eip155:2043",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Shrapnel Subnet",
+    "TokenName": "SHRAPG",
+    "ChainId": "eip155:2044",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Stratos",
+    "TokenName": "STOS",
+    "ChainId": "eip155:2048",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Movo Smart Chain Mainnet",
+    "TokenName": "MOVO",
+    "ChainId": "eip155:2049",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Quokkacoin Mainnet",
+    "TokenName": "QKA",
+    "ChainId": "eip155:2077",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Ecoball Mainnet",
+    "TokenName": "ECO",
+    "ChainId": "eip155:2100",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Exosama Network",
+    "TokenName": "SAMA",
+    "ChainId": "eip155:2109",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "UCHAIN Mainnet",
+    "TokenName": "UCASH",
+    "ChainId": "eip155:2112",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Catena Mainnet",
+    "TokenName": "CMCX",
+    "ChainId": "eip155:2121",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Metaplayerone Mainnet",
+    "TokenName": "METAD",
+    "ChainId": "eip155:2122",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "BigShortBets",
+    "TokenName": "USDC",
+    "ChainId": "eip155:2137",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Oneness Network",
+    "TokenName": "BTC",
+    "ChainId": "eip155:2140",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "BOSagora Mainnet",
+    "TokenName": "BOA",
+    "ChainId": "eip155:2151",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Findora Mainnet",
+    "TokenName": "FRA",
+    "ChainId": "eip155:2152",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Findora Forge",
+    "TokenName": "FRA",
+    "ChainId": "eip155:2154",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Moonsama Network",
+    "TokenName": "SAMA",
+    "ChainId": "eip155:2199",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Antofy Mainnet",
+    "TokenName": "ABN",
+    "ChainId": "eip155:2202",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Bitcoin EVM",
+    "TokenName": "BTC",
+    "ChainId": "eip155:2203",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Evanesco Mainnet",
+    "TokenName": "EVA",
+    "ChainId": "eip155:2213",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Kava",
+    "TokenName": "KAVA",
+    "ChainId": "eip155:2222",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "VChain Mainnet",
+    "TokenName": "VNDT",
+    "ChainId": "eip155:2223",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Krest Network",
+    "TokenName": "KRST",
+    "ChainId": "eip155:2241",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "BOMB Chain",
+    "TokenName": "BOMB",
+    "ChainId": "eip155:2300",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Ebro Network",
+    "TokenName": "ebro",
+    "ChainId": "eip155:2306",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Altcoinchain",
+    "TokenName": "ALT",
+    "ChainId": "eip155:2330",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "SOMA Network Mainnet",
+    "TokenName": "SMA",
+    "ChainId": "eip155:2332",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Atleta Olympia",
+    "TokenName": "ATLA",
+    "ChainId": "eip155:2340",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Omnia Chain",
+    "TokenName": "OMNIA",
+    "ChainId": "eip155:2342",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Kroma Sepolia",
+    "TokenName": "ETH",
+    "ChainId": "eip155:2358",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "TCG Verse Mainnet",
+    "TokenName": "OAS",
+    "ChainId": "eip155:2400",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Karak Mainnet",
+    "TokenName": "ETH",
+    "ChainId": "eip155:2410",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "XODEX",
+    "TokenName": "XODEX",
+    "ChainId": "eip155:2415",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "King Of Legends Mainnet",
+    "TokenName": "KCC",
+    "ChainId": "eip155:2425",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Hybrid Chain Network Mainnet",
+    "TokenName": "HRC",
+    "ChainId": "eip155:2468",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "inEVM Mainnet",
+    "TokenName": "INJ",
+    "ChainId": "eip155:2525",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Kortho Mainnet",
+    "TokenName": "KTO",
+    "ChainId": "eip155:2559",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "TechPay Mainnet",
+    "TokenName": "TPC",
+    "ChainId": "eip155:2569",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "PoCRNet",
+    "TokenName": "CRC",
+    "ChainId": "eip155:2606",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Redlight Chain Mainnet",
+    "TokenName": "REDLC",
+    "ChainId": "eip155:2611",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "EZChain C-Chain Mainnet",
+    "TokenName": "EZC",
+    "ChainId": "eip155:2612",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "AILayer Mainnet",
+    "TokenName": "BTC",
+    "ChainId": "eip155:2649",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "K-LAOS",
+    "TokenName": "KLAOS",
+    "ChainId": "eip155:2718",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "XR Sepolia",
+    "TokenName": "tXR",
+    "ChainId": "eip155:2730",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Nanon",
+    "TokenName": "ETH",
+    "ChainId": "eip155:2748",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "GM Network Mainnet",
+    "TokenName": "ETH",
+    "ChainId": "eip155:2777",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Morph Holesky",
+    "TokenName": "ETH",
+    "ChainId": "eip155:2810",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Chips Network",
+    "TokenName": "IOTA",
+    "ChainId": "eip155:2882",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Elux Chain",
+    "TokenName": "ELUX",
+    "ChainId": "eip155:2907",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "HYCHAIN",
+    "TokenName": "TOPIA",
+    "ChainId": "eip155:2911",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "BitYuan Mainnet",
+    "TokenName": "BTY",
+    "ChainId": "eip155:2999",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "CENNZnet Nikau",
+    "TokenName": "CPAY",
+    "ChainId": "eip155:3001",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Canxium Mainnet",
+    "TokenName": "CAU",
+    "ChainId": "eip155:3003",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "PLAYA3ULL GAMES",
+    "TokenName": "3ULL",
+    "ChainId": "eip155:3011",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Orlando Chain",
+    "TokenName": "ORL",
+    "ChainId": "eip155:3031",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Bifrost Mainnet",
+    "TokenName": "BFC",
+    "ChainId": "eip155:3068",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Immu3 EVM",
+    "TokenName": "IMMU",
+    "ChainId": "eip155:3100",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Vulture EVM Beta",
+    "TokenName": "VFI",
+    "ChainId": "eip155:3102",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "SatoshiVM Alpha Mainnet",
+    "TokenName": "BTC",
+    "ChainId": "eip155:3109",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Dubxcoin network",
+    "TokenName": "DUBX",
+    "ChainId": "eip155:3269",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Web3Q Galileo",
+    "TokenName": "W3Q",
+    "ChainId": "eip155:3334",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "EthStorage Mainnet",
+    "TokenName": "ETH",
+    "ChainId": "eip155:3335",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "The peaq Network",
+    "TokenName": "PEAQ",
+    "ChainId": "eip155:3338",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Paribu Net Mainnet",
+    "TokenName": "PRB",
+    "ChainId": "eip155:3400",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "EVOLVE Mainnet",
+    "TokenName": "EVO",
+    "ChainId": "eip155:3424",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "GTCSCAN",
+    "TokenName": "GTC",
+    "ChainId": "eip155:3490",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "JFIN Chain",
+    "TokenName": "JFIN",
+    "ChainId": "eip155:3501",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "PandoProject Mainnet",
+    "TokenName": "PTX",
+    "ChainId": "eip155:3601",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Tycooncoin",
+    "TokenName": "TYCO",
+    "ChainId": "eip155:3630",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Botanix Mainnet",
+    "TokenName": "BTC",
+    "ChainId": "eip155:3637",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "iChain Network",
+    "TokenName": "ISLAMI",
+    "ChainId": "eip155:3639",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Jouleverse Mainnet",
+    "TokenName": "J",
+    "ChainId": "eip155:3666",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Bittex Mainnet",
+    "TokenName": "BTX",
+    "ChainId": "eip155:3690",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Empire Network",
+    "TokenName": "EMPIRE",
+    "ChainId": "eip155:3693",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "SenjePowers Mainnet",
+    "TokenName": "SPC",
+    "ChainId": "eip155:3699",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Crossbell",
+    "TokenName": "CSB",
+    "ChainId": "eip155:3737",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Astar zkEVM",
+    "TokenName": "ETH",
+    "ChainId": "eip155:3776",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "AlveyChain Mainnet",
+    "TokenName": "ALV",
+    "ChainId": "eip155:3797",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Firechain zkEVM Ghostrider",
+    "TokenName": "ETH",
+    "ChainId": "eip155:3885",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "KalyChain Mainnet",
+    "TokenName": "KLC",
+    "ChainId": "eip155:3888",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "DRAC Network",
+    "TokenName": "DRAC",
+    "ChainId": "eip155:3912",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "DOS Tesnet",
+    "TokenName": "DOS",
+    "ChainId": "eip155:3939",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "DYNO Mainnet",
+    "TokenName": "DYNO",
+    "ChainId": "eip155:3966",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "YuanChain Mainnet",
+    "TokenName": "YCC",
+    "ChainId": "eip155:3999",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Ozone Chain Mainnet",
+    "TokenName": "OZO",
+    "ChainId": "eip155:4000",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "X1 Fastnet",
+    "TokenName": "XN",
+    "ChainId": "eip155:4003",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Bahamut ocean",
+    "TokenName": "FTN",
+    "ChainId": "eip155:4058",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Nahmii 3 Mainnet",
+    "TokenName": "ETH",
+    "ChainId": "eip155:4061",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Muster Mainnet",
+    "TokenName": "ETH",
+    "ChainId": "eip155:4078",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Tobe Chain",
+    "TokenName": "TBC",
+    "ChainId": "eip155:4080",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Bitindi Mainnet",
+    "TokenName": "$BNI",
+    "ChainId": "eip155:4099",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "SX Rollup",
+    "TokenName": "SX",
+    "ChainId": "eip155:4162",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "PHI Network V1",
+    "TokenName": "Φ",
+    "ChainId": "eip155:4181",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Merlin Mainnet",
+    "TokenName": "BTC",
+    "ChainId": "eip155:4200",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Nexi Mainnet",
+    "TokenName": "NEXI",
+    "ChainId": "eip155:4242",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Nexi V2 Mainnet",
+    "TokenName": "NEXI",
+    "ChainId": "eip155:4243",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Beam",
+    "TokenName": "BEAM",
+    "ChainId": "eip155:4337",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Credit Smart Chain Mainnet",
+    "TokenName": "CREDIT",
+    "ChainId": "eip155:4400",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Htmlcoin Mainnet",
+    "TokenName": "HTML",
+    "ChainId": "eip155:4444",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "VERY Mainnet",
+    "TokenName": "VERY",
+    "ChainId": "eip155:4613",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Gold Chain",
+    "TokenName": "ETH",
+    "ChainId": "eip155:4653",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "IoTeX Network Mainnet",
+    "TokenName": "IOTX",
+    "ChainId": "eip155:4689",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Globel Chain",
+    "TokenName": "GC",
+    "ChainId": "eip155:4893",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Venidium Mainnet",
+    "TokenName": "XVM",
+    "ChainId": "eip155:4919",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "BlackFort Exchange Network",
+    "TokenName": "BXN",
+    "ChainId": "eip155:4999",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Mantle",
+    "TokenName": "MNT",
+    "ChainId": "eip155:5000",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Treasurenet Mainnet Alpha",
+    "TokenName": "UNIT",
+    "ChainId": "eip155:5002",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "ONIGIRI Subnet",
+    "TokenName": "ONGR",
+    "ChainId": "eip155:5040",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Syndicate Frame Chain",
+    "TokenName": "ETH",
+    "ChainId": "eip155:5101",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Ham",
+    "TokenName": "ETH",
+    "ChainId": "eip155:5112",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Bahamut",
+    "TokenName": "FTN",
+    "ChainId": "eip155:5165",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Smart Layer Network",
+    "TokenName": "SU",
+    "ChainId": "eip155:5169",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "TLChain Network Mainnet",
+    "TokenName": "TLC",
+    "ChainId": "eip155:5177",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "EraSwap Mainnet",
+    "TokenName": "ES",
+    "ChainId": "eip155:5197",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Humanode Mainnet",
+    "TokenName": "eHMND",
+    "ChainId": "eip155:5234",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Uzmi Network Mainnet",
+    "TokenName": "UZMI",
+    "ChainId": "eip155:5315",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Netsbo",
+    "TokenName": "NETS",
+    "ChainId": "eip155:5333",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "edeXa Mainnet",
+    "TokenName": "EDX",
+    "ChainId": "eip155:5424",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Egochain",
+    "TokenName": "EGAX",
+    "ChainId": "eip155:5439",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Nahmii 2 Mainnet",
+    "TokenName": "ETH",
+    "ChainId": "eip155:5551",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Chain Verse Mainnet",
+    "TokenName": "OAS",
+    "ChainId": "eip155:5555",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "QIE Blockchain",
+    "TokenName": "QIE",
+    "ChainId": "eip155:5656",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Tanssi Demo",
+    "TokenName": "TANGO",
+    "ChainId": "eip155:5678",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Ganache",
+    "TokenName": "ETH",
+    "ChainId": "eip155:5777",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Tangle",
+    "TokenName": "TNT",
+    "ChainId": "eip155:5845",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Wegochain Rubidium Mainnet",
+    "TokenName": "RBD",
+    "ChainId": "eip155:5869",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "BounceBit Mainnet",
+    "TokenName": "BB",
+    "ChainId": "eip155:6001",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Tres Mainnet",
+    "TokenName": "TRES",
+    "ChainId": "eip155:6066",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "UPTN",
+    "TokenName": "UPTN",
+    "ChainId": "eip155:6119",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "LAOS",
+    "TokenName": "LAOS",
+    "ChainId": "eip155:6283",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Aura Mainnet",
+    "TokenName": "AURA",
+    "ChainId": "eip155:6322",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Digit Soul Smart Chain",
+    "TokenName": "DGC",
+    "ChainId": "eip155:6363",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Peerpay",
+    "TokenName": "P2P",
+    "ChainId": "eip155:6502",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Pixie Chain Mainnet",
+    "TokenName": "PIX",
+    "ChainId": "eip155:6626",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Cybria Mainnet",
+    "TokenName": "CYBA",
+    "ChainId": "eip155:6661",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "IRIShub",
+    "TokenName": "ERIS",
+    "ChainId": "eip155:6688",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "OX Chain",
+    "TokenName": "OX",
+    "ChainId": "eip155:6699",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "PAXB Mainnet",
+    "TokenName": "PAXB",
+    "ChainId": "eip155:6701",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Compverse Mainnet",
+    "TokenName": "CPV",
+    "ChainId": "eip155:6779",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Gold Smart Chain Mainnet",
+    "TokenName": "STAND",
+    "ChainId": "eip155:6789",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "RACE Mainnet",
+    "TokenName": "ETH",
+    "ChainId": "eip155:6805",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Pools Mainnet",
+    "TokenName": "POOLS",
+    "ChainId": "eip155:6868",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Tomb Chain Mainnet",
+    "TokenName": "TOMB",
+    "ChainId": "eip155:6969",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "PolySmartChain",
+    "TokenName": "PSC",
+    "ChainId": "eip155:6999",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "ZetaChain Mainnet",
+    "TokenName": "ZETA",
+    "ChainId": "eip155:7000",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "BST Chain",
+    "TokenName": "BSTC",
+    "ChainId": "eip155:7007",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Ella the heart",
+    "TokenName": "ELLA",
+    "ChainId": "eip155:7027",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Planq Mainnet",
+    "TokenName": "PLQ",
+    "ChainId": "eip155:7070",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Nume",
+    "TokenName": "DAI",
+    "ChainId": "eip155:7100",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Bitrock Mainnet",
+    "TokenName": "BROCK",
+    "ChainId": "eip155:7171",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "XPLA Verse",
+    "TokenName": "OAS",
+    "ChainId": "eip155:7300",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "KLYNTAR",
+    "TokenName": "KLY",
+    "ChainId": "eip155:7331",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Horizen EON Mainnet",
+    "TokenName": "ZEN",
+    "ChainId": "eip155:7332",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Shyft Mainnet",
+    "TokenName": "SHYFT",
+    "ChainId": "eip155:7341",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Raba Network Mainnet",
+    "TokenName": "RABA",
+    "ChainId": "eip155:7484",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "MEVerse Chain Mainnet",
+    "TokenName": "MEV",
+    "ChainId": "eip155:7518",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Cyber Mainnet",
+    "TokenName": "ETH",
+    "ChainId": "eip155:7560",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Adil Chain V2 Mainnet",
+    "TokenName": "ADIL",
+    "ChainId": "eip155:7576",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "The Root Network - Mainnet",
+    "TokenName": "XRP",
+    "ChainId": "eip155:7668",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Canto",
+    "TokenName": "CANTO",
+    "ChainId": "eip155:7700",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Canto Tesnet",
+    "TokenName": "CANTO",
+    "ChainId": "eip155:7701",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "GDCC MAINNET",
+    "TokenName": "GDCC",
+    "ChainId": "eip155:7774",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Orenium Mainnet Protocol",
+    "TokenName": "ORE",
+    "ChainId": "eip155:7778",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Kinto Mainnet",
+    "TokenName": "ETH",
+    "ChainId": "eip155:7887",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "ARDENIUM Athena",
+    "TokenName": "tARD",
+    "ChainId": "eip155:7895",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Dot Blox",
+    "TokenName": "DTBX",
+    "ChainId": "eip155:7923",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "MO Mainnet",
+    "TokenName": "MO",
+    "ChainId": "eip155:7924",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "DOS Chain",
+    "TokenName": "DOS",
+    "ChainId": "eip155:7979",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Teleport",
+    "TokenName": "TELE",
+    "ChainId": "eip155:8000",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "BOAT Mainnet",
+    "TokenName": "BOAT",
+    "ChainId": "eip155:8047",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Karak Sepolia",
+    "TokenName": "ETH",
+    "ChainId": "eip155:8054",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Bitcoin Chain",
+    "TokenName": "BTC",
+    "ChainId": "eip155:8086",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "E-Dollar",
+    "TokenName": "USD",
+    "ChainId": "eip155:8087",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "StreamuX Blockchain",
+    "TokenName": "SmuX",
+    "ChainId": "eip155:8098",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Torus Mainnet",
+    "TokenName": "TQF",
+    "ChainId": "eip155:8192",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Kaia Mainnet",
+    "TokenName": "KAIA",
+    "ChainId": "eip155:8217",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Space Subnet",
+    "TokenName": "FUEL",
+    "ChainId": "eip155:8227",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Blockton Blockchain",
+    "TokenName": "BTON",
+    "ChainId": "eip155:8272",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "KorthoTest",
+    "TokenName": "KTO",
+    "ChainId": "eip155:8285",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Lorenzo",
+    "TokenName": "stBTC",
+    "ChainId": "eip155:8329",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "B3",
+    "TokenName": "ETH",
+    "ChainId": "eip155:8333",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Dracones Financial Services",
+    "TokenName": "FUCK",
+    "ChainId": "eip155:8387",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Base",
+    "TokenName": "ETH",
+    "ChainId": "eip155:8453",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Toki Network",
+    "TokenName": "TOKI",
+    "ChainId": "eip155:8654",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Hela Official Runtime Mainnet",
+    "TokenName": "HLUSD",
+    "ChainId": "eip155:8668",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "TOOL Global Mainnet",
+    "TokenName": "OLO",
+    "ChainId": "eip155:8723",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Storagechain Mainnet",
+    "TokenName": "STOR",
+    "ChainId": "eip155:8726",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Bullions Smart Chain",
+    "TokenName": "BLN",
+    "ChainId": "eip155:8732",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Alph Network",
+    "TokenName": "ALPH",
+    "ChainId": "eip155:8738",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "TMY Chain",
+    "TokenName": "TMY",
+    "ChainId": "eip155:8768",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "IOTA EVM",
+    "TokenName": "IOTA",
+    "ChainId": "eip155:8822",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "MARO Blockchain Mainnet",
+    "TokenName": "MARO",
+    "ChainId": "eip155:8848",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "SuperLumio",
+    "TokenName": "ETH",
+    "ChainId": "eip155:8866",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Lif3 Chain",
+    "TokenName": "LIF3",
+    "ChainId": "eip155:8869",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Unique",
+    "TokenName": "UNQ",
+    "ChainId": "eip155:8880",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Quartz by Unique",
+    "TokenName": "QTZ",
+    "ChainId": "eip155:8881",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Sapphire by Unique",
+    "TokenName": "QTZ",
+    "ChainId": "eip155:8883",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Vyvo Smart Chain",
+    "TokenName": "VSC",
+    "ChainId": "eip155:8889",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Mammoth Mainnet",
+    "TokenName": "MMT",
+    "ChainId": "eip155:8898",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "JIBCHAIN L1",
+    "TokenName": "JBC",
+    "ChainId": "eip155:8899",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Algen",
+    "TokenName": "ALG",
+    "ChainId": "eip155:8911",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Algen Layer2",
+    "TokenName": "ALG",
+    "ChainId": "eip155:8921",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Giant Mammoth Mainnet",
+    "TokenName": "GMMT",
+    "ChainId": "eip155:8989",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "bloxberg",
+    "TokenName": "U+25B3",
+    "ChainId": "eip155:8995",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Evmos",
+    "TokenName": "EVMOS",
+    "ChainId": "eip155:9001",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Shido Mainnet Block",
+    "TokenName": "SHIDO",
+    "ChainId": "eip155:9008",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "BerylBit Mainnet",
+    "TokenName": "BRB",
+    "ChainId": "eip155:9012",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Nexa Mainnet Block",
+    "TokenName": "NEXB",
+    "ChainId": "eip155:9025",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Genesis Coin",
+    "TokenName": "GNC",
+    "ChainId": "eip155:9100",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Codefin Mainnet",
+    "TokenName": "COF",
+    "ChainId": "eip155:9223",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Evoke Mainnet",
+    "TokenName": "MTHN",
+    "ChainId": "eip155:9395",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Oort MainnetDev",
+    "TokenName": "OORT",
+    "ChainId": "eip155:9700",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "PepeNetwork Mainnet",
+    "TokenName": "WPEPE",
+    "ChainId": "eip155:9779",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Carbon EVM",
+    "TokenName": "SWTH",
+    "ChainId": "eip155:9790",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "OptimusZ7 Mainnet",
+    "TokenName": "OZ7",
+    "ChainId": "eip155:9797",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "IMPERIUM MAINNET",
+    "TokenName": "IMP",
+    "ChainId": "eip155:9819",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Dogelayer Mainnet",
+    "TokenName": "DOGE",
+    "ChainId": "eip155:9888",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Larissa Chain",
+    "TokenName": "LRS",
+    "ChainId": "eip155:9898",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Espento Mainnet",
+    "TokenName": "SPENT",
+    "ChainId": "eip155:9911",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Combo Mainnet",
+    "TokenName": "BNB",
+    "ChainId": "eip155:9980",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Volley Mainnet",
+    "TokenName": "V2X",
+    "ChainId": "eip155:9981",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Agung Network",
+    "TokenName": "AGNG",
+    "ChainId": "eip155:9990",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Mind Smart Chain Mainnet",
+    "TokenName": "MIND",
+    "ChainId": "eip155:9996",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Ztc Mainnet",
+    "TokenName": "ZTC",
+    "ChainId": "eip155:9998",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Smart Bitcoin Cash",
+    "TokenName": "BCH",
+    "ChainId": "eip155:10000",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Gon Chain",
+    "TokenName": "GT",
+    "ChainId": "eip155:10024",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "SJATSH",
+    "TokenName": "ETH",
+    "ChainId": "eip155:10086",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "MetaNova Verse",
+    "TokenName": "MNV",
+    "ChainId": "eip155:10096",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Blockchain Genesis Mainnet",
+    "TokenName": "GEN",
+    "ChainId": "eip155:10101",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "MaxxChain Mainnet",
+    "TokenName": "PWR",
+    "ChainId": "eip155:10201",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "GLScan",
+    "TokenName": "GLC",
+    "ChainId": "eip155:10222",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Arthera Mainnet",
+    "TokenName": "AA",
+    "ChainId": "eip155:10242",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "0XTade",
+    "TokenName": "0XT",
+    "ChainId": "eip155:10248",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "TAO EVM Mainnet",
+    "TokenName": "TAO",
+    "ChainId": "eip155:10321",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Numbers Mainnet",
+    "TokenName": "NUM",
+    "ChainId": "eip155:10507",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "CryptoCoinPay",
+    "TokenName": "CCP",
+    "ChainId": "eip155:10823",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Lamina1",
+    "TokenName": "L1",
+    "ChainId": "eip155:10849",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Lamina1 Identity",
+    "TokenName": "L1ID",
+    "ChainId": "eip155:10850",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Quadrans Blockchain",
+    "TokenName": "QDC",
+    "ChainId": "eip155:10946",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Astra",
+    "TokenName": "ASA",
+    "ChainId": "eip155:11110",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "WAGMI",
+    "TokenName": "WGM",
+    "ChainId": "eip155:11111",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "HashBit Mainnet",
+    "TokenName": "HBIT",
+    "ChainId": "eip155:11119",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Shine Chain",
+    "TokenName": "SC20",
+    "ChainId": "eip155:11221",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Haqq Network",
+    "TokenName": "ISLM",
+    "ChainId": "eip155:11235",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "BEVM Mainnet",
+    "TokenName": "BTC",
+    "ChainId": "eip155:11501",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "SatsChain",
+    "TokenName": "SATS",
+    "ChainId": "eip155:11521",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Polygon Supernet Arianee",
+    "TokenName": "ARIA20",
+    "ChainId": "eip155:11891",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "SatoshiChain Mainnet",
+    "TokenName": "SATS",
+    "ChainId": "eip155:12009",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Aternos",
+    "TokenName": "ATR",
+    "ChainId": "eip155:12020",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Singularity ZERO Mainnet",
+    "TokenName": "ZERO",
+    "ChainId": "eip155:12052",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "BRC Chain Mainnet",
+    "TokenName": "BRC",
+    "ChainId": "eip155:12123",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Fibonacci Mainnet",
+    "TokenName": "FIBO",
+    "ChainId": "eip155:12306",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "L3X Protocol",
+    "TokenName": "ETH",
+    "ChainId": "eip155:12324",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "RSS3 VSL Mainnet",
+    "TokenName": "RSS3",
+    "ChainId": "eip155:12553",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "SPS",
+    "TokenName": "ECG",
+    "ChainId": "eip155:13000",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Credit Smart Chain",
+    "TokenName": "CREDIT",
+    "ChainId": "eip155:13308",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Immutable zkEVM",
+    "TokenName": "IMX",
+    "ChainId": "eip155:13371",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Phoenix Mainnet",
+    "TokenName": "PHX",
+    "ChainId": "eip155:13381",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Masa",
+    "TokenName": "MASA",
+    "ChainId": "eip155:13396",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Kronobit Mainnet",
+    "TokenName": "KNB",
+    "ChainId": "eip155:13600",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Susono",
+    "TokenName": "OPN",
+    "ChainId": "eip155:13812",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Poodl Mainnet",
+    "TokenName": "POODL",
+    "ChainId": "eip155:15259",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "KYMTC Mainnet",
+    "TokenName": "KYMTC",
+    "ChainId": "eip155:15430",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "LoopNetwork Mainnet",
+    "TokenName": "LOOP",
+    "ChainId": "eip155:15551",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "MetaDot Mainnet",
+    "TokenName": "MTT",
+    "ChainId": "eip155:16000",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "DeFiVerse Mainnet",
+    "TokenName": "OAS",
+    "ChainId": "eip155:16116",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "PLYR PHI",
+    "TokenName": "PLYR",
+    "ChainId": "eip155:16180",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Pivotal Sepolia",
+    "TokenName": "PLUS",
+    "ChainId": "eip155:16481",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Genesys Mainnet",
+    "TokenName": "GSYS",
+    "ChainId": "eip155:16507",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "AirDAO Mainnet",
+    "TokenName": "AMB",
+    "ChainId": "eip155:16718",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Holesky",
+    "TokenName": "ETH",
+    "ChainId": "eip155:17000",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Garnet Holesky",
+    "TokenName": "ETH",
+    "ChainId": "eip155:17069",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Onchain Points",
+    "TokenName": "POP",
+    "ChainId": "eip155:17071",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "G8Chain Mainnet",
+    "TokenName": "G8C",
+    "ChainId": "eip155:17171",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Eclipse Subnet",
+    "TokenName": "ECLP",
+    "ChainId": "eip155:17172",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "KONET Mainnet",
+    "TokenName": "KONET",
+    "ChainId": "eip155:17217",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "EOS EVM Network",
+    "TokenName": "EOS",
+    "ChainId": "eip155:17777",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Smart Trade Networks",
+    "TokenName": "STN",
+    "ChainId": "eip155:18122",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Proof Of Memes",
+    "TokenName": "POM",
+    "ChainId": "eip155:18159",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "unreal",
+    "TokenName": "reETH",
+    "ChainId": "eip155:18233",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "MXC zkEVM Moonchain",
+    "TokenName": "MXC",
+    "ChainId": "eip155:18686",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Titan (TKX)",
+    "TokenName": "TKX",
+    "ChainId": "eip155:18888",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "HOME Verse Mainnet",
+    "TokenName": "OAS",
+    "ChainId": "eip155:19011",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "BlockX Mainnet",
+    "TokenName": "BCX",
+    "ChainId": "eip155:19191",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Decentraconnect Social",
+    "TokenName": "DCSM",
+    "ChainId": "eip155:19224",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Magnet Network",
+    "TokenName": "DOT",
+    "ChainId": "eip155:19527",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "LBRY Mainnet",
+    "TokenName": "LBC",
+    "ChainId": "eip155:19600",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "BTCIX Network",
+    "TokenName": "BTCIX",
+    "ChainId": "eip155:19845",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Camelark Mainnet",
+    "TokenName": "ETHW",
+    "ChainId": "eip155:20001",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Niza Chain Mainnet",
+    "TokenName": "NIZA",
+    "ChainId": "eip155:20041",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "P12 Chain",
+    "TokenName": "hP2",
+    "ChainId": "eip155:20736",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Jono11 Subnet",
+    "TokenName": "JONO",
+    "ChainId": "eip155:20765",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "C4EI",
+    "TokenName": "C4EI",
+    "ChainId": "eip155:21004",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "All About Healthy",
+    "TokenName": "AAH",
+    "ChainId": "eip155:21133",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "DCpay Mainnet",
+    "TokenName": "DCP",
+    "ChainId": "eip155:21223",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "CENNZnet Azalea",
+    "TokenName": "CPAY",
+    "ChainId": "eip155:21337",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "omChain Mainnet",
+    "TokenName": "OMC",
+    "ChainId": "eip155:21816",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "BSL Mainnet",
+    "TokenName": "ONF",
+    "ChainId": "eip155:21912",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Taycan",
+    "TokenName": "SFL",
+    "ChainId": "eip155:22023",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Nautilus Mainnet",
+    "TokenName": "ZBC",
+    "ChainId": "eip155:22222",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "MAP Protocol",
+    "TokenName": "MAPO",
+    "ChainId": "eip155:22776",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Oasis Sapphire",
+    "TokenName": "ROSE",
+    "ChainId": "eip155:23294",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "DreyerX Mainnet",
+    "TokenName": "DRX",
+    "ChainId": "eip155:23451",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "MintMe.com Coin",
+    "TokenName": "MINTME",
+    "ChainId": "eip155:24734",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "LiquidLayer Mainnet",
+    "TokenName": "LILA",
+    "ChainId": "eip155:25186",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Hammer Chain Mainnet",
+    "TokenName": "GOLDT",
+    "ChainId": "eip155:25888",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Hertz Network Mainnet",
+    "TokenName": "HTZ",
+    "ChainId": "eip155:26600",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "OasisChain Mainnet",
+    "TokenName": "OAC",
+    "ChainId": "eip155:26863",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "KLAOS Nova",
+    "TokenName": "KLAOS",
+    "ChainId": "eip155:27181",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Nanon Sepolia",
+    "TokenName": "ETH",
+    "ChainId": "eip155:27483",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "zeroone Mainnet Subnet",
+    "TokenName": "ZERO",
+    "ChainId": "eip155:27827",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Vizing Mainnet",
+    "TokenName": "ETH",
+    "ChainId": "eip155:28518",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Boba Sepolia",
+    "TokenName": "ETH",
+    "ChainId": "eip155:28882",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Nexa MetaNet",
+    "TokenName": "NEXA",
+    "ChainId": "eip155:29223",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "MCH Verse Mainnet",
+    "TokenName": "OAS",
+    "ChainId": "eip155:29548",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "MiYou Mainnet",
+    "TokenName": "MY",
+    "ChainId": "eip155:30088",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Ethersocial Network",
+    "TokenName": "ESN",
+    "ChainId": "eip155:31102",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "CloudTx Mainnet",
+    "TokenName": "CLD",
+    "ChainId": "eip155:31223",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Xchain Mainnet",
+    "TokenName": "INTD",
+    "ChainId": "eip155:31753",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Santiment Intelligence Network",
+    "TokenName": "SANR",
+    "ChainId": "eip155:32382",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Bitgert Mainnet",
+    "TokenName": "Brise",
+    "ChainId": "eip155:32520",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Fusion Mainnet",
+    "TokenName": "FSN",
+    "ChainId": "eip155:32659",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Zilliqa EVM",
+    "TokenName": "ZIL",
+    "ChainId": "eip155:32769",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Zilliqa EVM Isolated Server",
+    "TokenName": "ZIL",
+    "ChainId": "eip155:32990",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Entangle Mainnet",
+    "TokenName": "NGL",
+    "ChainId": "eip155:33033",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Cloudverse Subnet",
+    "TokenName": "XCLOUD",
+    "ChainId": "eip155:33210",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Aves Mainnet",
+    "TokenName": "AVS",
+    "ChainId": "eip155:33333",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "SlingShot",
+    "TokenName": "SLING",
+    "ChainId": "eip155:33401",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Funki",
+    "TokenName": "ETH",
+    "ChainId": "eip155:33979",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Mode",
+    "TokenName": "ETH",
+    "ChainId": "eip155:34443",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "J2O Taro",
+    "TokenName": "taro",
+    "ChainId": "eip155:35011",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Q Mainnet",
+    "TokenName": "QGOV",
+    "ChainId": "eip155:35441",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "ConnectorManager",
+    "TokenName": "cmRPG",
+    "ChainId": "eip155:38400",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "ConnectorManager Robin",
+    "TokenName": "ttRPG",
+    "ChainId": "eip155:38401",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "PRM Mainnet",
+    "TokenName": "PRM",
+    "ChainId": "eip155:39656",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Energi Mainnet",
+    "TokenName": "NRG",
+    "ChainId": "eip155:39797",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "OHO Mainnet",
+    "TokenName": "OHO",
+    "ChainId": "eip155:39815",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Opulent-X BETA",
+    "TokenName": "OXYN",
+    "ChainId": "eip155:41500",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Arbitrum One",
+    "TokenName": "ETH",
+    "ChainId": "eip155:42161",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Arbitrum Nova",
+    "TokenName": "ETH",
+    "ChainId": "eip155:42170",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Celo Mainnet",
+    "TokenName": "CELO",
+    "ChainId": "eip155:42220",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Oasis Emerald",
+    "TokenName": "ROSE",
+    "ChainId": "eip155:42262",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "GoldXChain Mainnet",
+    "TokenName": "GOLDX",
+    "ChainId": "eip155:42355",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "ZKFair Mainnet",
+    "TokenName": "USDC",
+    "ChainId": "eip155:42766",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Etherlink Mainnet",
+    "TokenName": "XTZ",
+    "ChainId": "eip155:42793",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Athereum",
+    "TokenName": "ATH",
+    "ChainId": "eip155:43110",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Avalanche C-Chain",
+    "TokenName": "AVAX",
+    "ChainId": "eip155:43114",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Frenchain",
+    "TokenName": "FREN",
+    "ChainId": "eip155:44444",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Quantum Network",
+    "TokenName": "QTM",
+    "ChainId": "eip155:44445",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Autobahn Network",
+    "TokenName": "TXL",
+    "ChainId": "eip155:45000",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Swamps L2",
+    "TokenName": "SWP",
+    "ChainId": "eip155:45454",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Deelance Mainnet",
+    "TokenName": "DEE",
+    "ChainId": "eip155:45510",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Neo X Mainnet",
+    "TokenName": "GAS",
+    "ChainId": "eip155:47763",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "REI Network",
+    "TokenName": "REI",
+    "ChainId": "eip155:47805",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Liveplex OracleEVM",
+    "TokenName": "ETH",
+    "ChainId": "eip155:50001",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Yooldo Verse Mainnet",
+    "TokenName": "OAS",
+    "ChainId": "eip155:50005",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Sardis Mainnet",
+    "TokenName": "SRDX",
+    "ChainId": "eip155:51712",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Electroneum Mainnet",
+    "TokenName": "ETN",
+    "ChainId": "eip155:52014",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "DOID",
+    "TokenName": "DOID",
+    "ChainId": "eip155:53277",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "DFK Chain",
+    "TokenName": "JEWEL",
+    "ChainId": "eip155:53935",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Titan",
+    "TokenName": "ETH",
+    "ChainId": "eip155:55004",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "REI Chain Mainnet",
+    "TokenName": "REI",
+    "ChainId": "eip155:55555",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Lambda Chain Mainnet",
+    "TokenName": "ETH",
+    "ChainId": "eip155:56026",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Boba BNB Mainnet",
+    "TokenName": "BOBA",
+    "ChainId": "eip155:56288",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "VELO Labs Mainnet",
+    "TokenName": "NOVA",
+    "ChainId": "eip155:56789",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "COINSEC Network",
+    "TokenName": "SEC",
+    "ChainId": "eip155:57451",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Sepolia PGN (Public Goods Network)",
+    "TokenName": "ETH",
+    "ChainId": "eip155:58008",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Linea Goerli",
+    "TokenName": "ETH",
+    "ChainId": "eip155:59140",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Linea Sepolia",
+    "TokenName": "ETH",
+    "ChainId": "eip155:59141",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Linea",
+    "TokenName": "ETH",
+    "ChainId": "eip155:59144",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Genesys Code Mainnet",
+    "TokenName": "GCODE",
+    "ChainId": "eip155:59971",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "BOB",
+    "TokenName": "ETH",
+    "ChainId": "eip155:60808",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Orange Chain Mainnet",
+    "TokenName": "BTC",
+    "ChainId": "eip155:61022",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "KaiChain",
+    "TokenName": "KEC",
+    "ChainId": "eip155:61406",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Etica Mainnet",
+    "TokenName": "EGAZ",
+    "ChainId": "eip155:61803",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "DoKEN Super Chain Mainnet",
+    "TokenName": "DKN",
+    "ChainId": "eip155:61916",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Optopia Mainnet",
+    "TokenName": "ETH",
+    "ChainId": "eip155:62050",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "MultiVAC Mainnet",
+    "TokenName": "MTV",
+    "ChainId": "eip155:62621",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "eCredits Mainnet",
+    "TokenName": "ECS",
+    "ChainId": "eip155:63000",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Vecno Mainnet",
+    "TokenName": "VE",
+    "ChainId": "eip155:65357",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Scolcoin Mainnet",
+    "TokenName": "SCOL",
+    "ChainId": "eip155:65450",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Cosmic Chain",
+    "TokenName": "COSMIC",
+    "ChainId": "eip155:67588",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "DM2 Verse Mainnet",
+    "TokenName": "OAS",
+    "ChainId": "eip155:68770",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Condrieu",
+    "TokenName": "CTE",
+    "ChainId": "eip155:69420",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Thinkium Mainnet Chain 0",
+    "TokenName": "TKM",
+    "ChainId": "eip155:70000",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Thinkium Mainnet Chain 1",
+    "TokenName": "TKM",
+    "ChainId": "eip155:70001",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Thinkium Mainnet Chain 2",
+    "TokenName": "TKM",
+    "ChainId": "eip155:70002",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Thinkium Mainnet Chain 103",
+    "TokenName": "TKM",
+    "ChainId": "eip155:70103",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Proof of Play - Apex",
+    "TokenName": "ETH",
+    "ChainId": "eip155:70700",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "GuapcoinX",
+    "TokenName": "GuapX",
+    "ChainId": "eip155:71111",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Godwoken Mainnet",
+    "TokenName": "pCKB",
+    "ChainId": "eip155:71402",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Grok Chain Mainnet",
+    "TokenName": "GROC",
+    "ChainId": "eip155:72992",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "ICB Network",
+    "TokenName": "ICBX",
+    "ChainId": "eip155:73115",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Mixin Virtual Machine",
+    "TokenName": "ETH",
+    "ChainId": "eip155:73927",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "GEEK Verse Mainnet",
+    "TokenName": "OAS",
+    "ChainId": "eip155:75512",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "BORAchain mainnet",
+    "TokenName": "BORA",
+    "ChainId": "eip155:77001",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Vention Smart Chain Mainnet",
+    "TokenName": "VNT",
+    "ChainId": "eip155:77612",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Cycle Network Mainnet Sailboat",
+    "TokenName": "ETH",
+    "ChainId": "eip155:77677",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Toronet Mainnet",
+    "TokenName": "TORO",
+    "ChainId": "eip155:77777",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Dragonfly Mainnet (Hexapod)",
+    "TokenName": "DFLY",
+    "ChainId": "eip155:78281",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Amplify Subnet",
+    "TokenName": "AMP",
+    "ChainId": "eip155:78430",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Bulletin Subnet",
+    "TokenName": "BLT",
+    "ChainId": "eip155:78431",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Conduit Subnet",
+    "TokenName": "CON",
+    "ChainId": "eip155:78432",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Vanguard",
+    "TokenName": "VANRY",
+    "ChainId": "eip155:78600",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Mumbai",
+    "TokenName": "MATIC",
+    "ChainId": "eip155:80001",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Amoy",
+    "TokenName": "MATIC",
+    "ChainId": "eip155:80002",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Berachain bArtio",
+    "TokenName": "BERA",
+    "ChainId": "eip155:80084",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Berachain Artio",
+    "TokenName": "BERA",
+    "ChainId": "eip155:80085",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Hizoco mainnet",
+    "TokenName": "HZC",
+    "ChainId": "eip155:80096",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Nordek Mainnet",
+    "TokenName": "NRK",
+    "ChainId": "eip155:81041",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Blast",
+    "TokenName": "ETH",
+    "ChainId": "eip155:81457",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Quantum Chain Mainnet",
+    "TokenName": "QNET",
+    "ChainId": "eip155:81720",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "ZEDXION",
+    "TokenName": "ZEDX",
+    "ChainId": "eip155:83872",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Aerie Network",
+    "TokenName": "AER",
+    "ChainId": "eip155:84886",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "CYBERTRUST",
+    "TokenName": "CYBER",
+    "ChainId": "eip155:85449",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Inoai Network",
+    "TokenName": "INO",
+    "ChainId": "eip155:88559",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "ZKasino Mainnet",
+    "TokenName": "ZKAS",
+    "ChainId": "eip155:88800",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Unit Zero Stagenet",
+    "TokenName": "UNIT0",
+    "ChainId": "eip155:88819",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Beverly Hills",
+    "TokenName": "BVE",
+    "ChainId": "eip155:90210",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Nautilus Trition Chain",
+    "TokenName": "tZBC",
+    "ChainId": "eip155:91002",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "MetaDAP Enterprise Mainnet",
+    "TokenName": "DAP",
+    "ChainId": "eip155:91120",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Ebi Chain",
+    "TokenName": "ETH",
+    "ChainId": "eip155:98881",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "UB Smart Chain(testnet)",
+    "TokenName": "UBC",
+    "ChainId": "eip155:99998",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "UB Smart Chain",
+    "TokenName": "UBC",
+    "ChainId": "eip155:99999",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "QuarkChain Mainnet Root",
+    "TokenName": "QKC",
+    "ChainId": "eip155:100000",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "QuarkChain Mainnet Shard 0",
+    "TokenName": "QKC",
+    "ChainId": "eip155:100001",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "QuarkChain Mainnet Shard 1",
+    "TokenName": "QKC",
+    "ChainId": "eip155:100002",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "QuarkChain Mainnet Shard 2",
+    "TokenName": "QKC",
+    "ChainId": "eip155:100003",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "QuarkChain Mainnet Shard 3",
+    "TokenName": "QKC",
+    "ChainId": "eip155:100004",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "QuarkChain Mainnet Shard 4",
+    "TokenName": "QKC",
+    "ChainId": "eip155:100005",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "QuarkChain Mainnet Shard 5",
+    "TokenName": "QKC",
+    "ChainId": "eip155:100006",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "QuarkChain Mainnet Shard 6",
+    "TokenName": "QKC",
+    "ChainId": "eip155:100007",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "QuarkChain Mainnet Shard 7",
+    "TokenName": "QKC",
+    "ChainId": "eip155:100008",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "VeChain",
+    "TokenName": "VET",
+    "ChainId": "eip155:100009",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "QuarkChain L2 Mainnet",
+    "TokenName": "QKC",
+    "ChainId": "eip155:100011",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Crystaleum",
+    "TokenName": "◈",
+    "ChainId": "eip155:103090",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "KaspaClassic Mainnet",
+    "TokenName": "CAS",
+    "ChainId": "eip155:104566",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Stratis Mainnet",
+    "TokenName": "STRAX",
+    "ChainId": "eip155:105105",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "BROChain Mainnet",
+    "TokenName": "BRO",
+    "ChainId": "eip155:108801",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "MARS Credit",
+    "TokenName": "MARS",
+    "ChainId": "eip155:110110",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Siberium Network",
+    "TokenName": "SIBR",
+    "ChainId": "eip155:111111",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "re.al",
+    "TokenName": "reETH",
+    "ChainId": "eip155:111188",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Metachain One Mainnet",
+    "TokenName": "METAO",
+    "ChainId": "eip155:112358",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Gemchain",
+    "TokenName": "GEM",
+    "ChainId": "eip155:123321",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Odyssey Chain (Testnet)",
+    "TokenName": "DIONE",
+    "ChainId": "eip155:131313",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "ETND Chain Mainnets",
+    "TokenName": "ETND",
+    "ChainId": "eip155:131419",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "ICPlaza Mainnet",
+    "TokenName": "ict",
+    "ChainId": "eip155:142857",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Eclat Mainnet",
+    "TokenName": "ECLAT",
+    "ChainId": "eip155:165279",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Taiko Mainnet",
+    "TokenName": "ETH",
+    "ChainId": "eip155:167000",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Taiko Katla L2",
+    "TokenName": "ETH",
+    "ChainId": "eip155:167008",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Taiko Hekla L2",
+    "TokenName": "ETH",
+    "ChainId": "eip155:167009",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Bitica Chain Mainnet",
+    "TokenName": "BDCC",
+    "ChainId": "eip155:188710",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Akroma",
+    "TokenName": "AKA",
+    "ChainId": "eip155:200625",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Bitlayer Mainnet",
+    "TokenName": "BTC",
+    "ChainId": "eip155:200901",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Alaya Mainnet",
+    "TokenName": "atp",
+    "ChainId": "eip155:201018",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Mythical Chain",
+    "TokenName": "MYTH",
+    "ChainId": "eip155:201804",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Jellie",
+    "TokenName": "TWL",
+    "ChainId": "eip155:202624",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "X1 Network",
+    "TokenName": "XN",
+    "ChainId": "eip155:204005",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "PlatON Mainnet",
+    "TokenName": "lat",
+    "ChainId": "eip155:210425",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Mas Mainnet",
+    "TokenName": "MAS",
+    "ChainId": "eip155:220315",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Reapchain Mainnet",
+    "TokenName": "REAP",
+    "ChainId": "eip155:221230",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "HydraDX",
+    "TokenName": "WETH",
+    "ChainId": "eip155:222222",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "DeepL Mainnet",
+    "TokenName": "DEEPL",
+    "ChainId": "eip155:222555",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Taf ECO Chain Mainnet",
+    "TokenName": "TAFECO",
+    "ChainId": "eip155:224168",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "CONET Holesky",
+    "TokenName": "CONET",
+    "ChainId": "eip155:224433",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "ARTIS sigma1",
+    "TokenName": "ATS",
+    "ChainId": "eip155:246529",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "CMP-Mainnet",
+    "TokenName": "CMP",
+    "ChainId": "eip155:256256",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Social Smart Chain Mainnet",
+    "TokenName": "$OC",
+    "ChainId": "eip155:281121",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "One World Chain Mainnet",
+    "TokenName": "OWCT",
+    "ChainId": "eip155:309075",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Parex Mainnet",
+    "TokenName": "PRX",
+    "ChainId": "eip155:322202",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Nal Mainnet",
+    "TokenName": "ETH",
+    "ChainId": "eip155:328527",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "TTcoin Smart Chain Mainnet",
+    "TokenName": "TC",
+    "ChainId": "eip155:330844",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Bloom Genesis Mainnet",
+    "TokenName": "BGBC",
+    "ChainId": "eip155:333313",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Polis Mainnet",
+    "TokenName": "POLIS",
+    "ChainId": "eip155:333999",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "UPchain Mainnet",
+    "TokenName": "UBTC",
+    "ChainId": "eip155:336666",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Bitfinity Network Mainnet",
+    "TokenName": "BFT",
+    "ChainId": "eip155:355110",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "LAVITA Mainnet",
+    "TokenName": "vTFUEL",
+    "ChainId": "eip155:360890",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Digit Soul Smart Chain 2",
+    "TokenName": "DGC",
+    "ChainId": "eip155:363636",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Metal C-Chain",
+    "TokenName": "METAL",
+    "ChainId": "eip155:381931",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Metal Tahoe C-Chain",
+    "TokenName": "METAL",
+    "ChainId": "eip155:381932",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Tipboxcoin Mainnet",
+    "TokenName": "TPBX",
+    "ChainId": "eip155:404040",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Kekchain",
+    "TokenName": "KEK",
+    "ChainId": "eip155:420420",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Kekchain (kektest)",
+    "TokenName": "tKEK",
+    "ChainId": "eip155:420666",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Arbitrum Rinkeby",
+    "TokenName": "ETH",
+    "ChainId": "eip155:421611",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Arbitrum Goerli",
+    "TokenName": "AGOR",
+    "ChainId": "eip155:421613",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Arbitrum Sepolia",
+    "TokenName": "ETH",
+    "ChainId": "eip155:421614",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Markr Go",
+    "TokenName": "AVAX",
+    "ChainId": "eip155:431140",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Dexalot Subnet",
+    "TokenName": "ALOT",
+    "ChainId": "eip155:432204",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Syndr L3 Sepolia",
+    "TokenName": "ETH",
+    "ChainId": "eip155:444444",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Ultra Pro Mainnet",
+    "TokenName": "UPRO",
+    "ChainId": "eip155:473861",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "OpenChain Mainnet",
+    "TokenName": "OPC",
+    "ChainId": "eip155:474142",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Playdapp Network",
+    "TokenName": "PDA",
+    "ChainId": "eip155:504441",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "DisChain",
+    "TokenName": "DIS",
+    "ChainId": "eip155:513100",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "DoCoin Community Chain",
+    "TokenName": "DCT",
+    "ChainId": "eip155:526916",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Scroll",
+    "TokenName": "ETH",
+    "ChainId": "eip155:534352",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Shinarium Beta",
+    "TokenName": "SHI",
+    "ChainId": "eip155:534849",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "BeanEco SmartChain",
+    "TokenName": "BESC",
+    "ChainId": "eip155:535037",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Hypra Mainnet",
+    "TokenName": "HYP",
+    "ChainId": "eip155:622277",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Atlas",
+    "TokenName": "TON",
+    "ChainId": "eip155:622463",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Bear Network Chain Mainnet",
+    "TokenName": "BRNKC",
+    "ChainId": "eip155:641230",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "ALL Mainnet",
+    "TokenName": "ALL",
+    "ChainId": "eip155:651940",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Open Campus Codex",
+    "TokenName": "EDU",
+    "ChainId": "eip155:656476",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Xai Mainnet",
+    "TokenName": "XAI",
+    "ChainId": "eip155:660279",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Won Network",
+    "TokenName": "WON",
+    "ChainId": "eip155:686868",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Tiltyard Mainnet Subnet",
+    "TokenName": "TILT",
+    "ChainId": "eip155:710420",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "ERAM Mainnet",
+    "TokenName": "ERAM",
+    "ChainId": "eip155:721529",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Hemi Sepolia",
+    "TokenName": "ETH",
+    "ChainId": "eip155:743111",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Miexs Smartchain",
+    "TokenName": "MIX",
+    "ChainId": "eip155:761412",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Modularium",
+    "TokenName": "MDM",
+    "ChainId": "eip155:776877",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "OctaSpace",
+    "TokenName": "OCTA",
+    "ChainId": "eip155:800001",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "BOB Sepolia",
+    "TokenName": "ETH",
+    "ChainId": "eip155:808813",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "zkLink Nova Mainnet",
+    "TokenName": "ETH",
+    "ChainId": "eip155:810180",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "CURVE Mainnet",
+    "TokenName": "CURVE",
+    "ChainId": "eip155:827431",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "4GoodNetwork",
+    "TokenName": "APTA",
+    "ChainId": "eip155:846000",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Dodao",
+    "TokenName": "DODAO",
+    "ChainId": "eip155:855456",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "BlocX Mainnet",
+    "TokenName": "BLX",
+    "ChainId": "eip155:879151",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "REXX Mainnet",
+    "TokenName": "REXX",
+    "ChainId": "eip155:888882",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Vision - Mainnet",
+    "TokenName": "VS",
+    "ChainId": "eip155:888888",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Posichain Mainnet Shard 0",
+    "TokenName": "POSI",
+    "ChainId": "eip155:900000",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Astria EVM Dusknet",
+    "TokenName": "RIA",
+    "ChainId": "eip155:912559",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Jono12 Subnet",
+    "TokenName": "JONO",
+    "ChainId": "eip155:955081",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Eluvio Content Fabric",
+    "TokenName": "ELV",
+    "ChainId": "eip155:955305",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Treasure Ruby",
+    "TokenName": "MAGIC",
+    "ChainId": "eip155:978657",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Forma",
+    "TokenName": "TIA",
+    "ChainId": "eip155:984122",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Forma Sketchpad",
+    "TokenName": "TIA",
+    "ChainId": "eip155:984123",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Ecrox Chain Mainnet",
+    "TokenName": "ECROX",
+    "ChainId": "eip155:988207",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "AmChain",
+    "TokenName": "AMC",
+    "ChainId": "eip155:999999",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Tiltyard Subnet",
+    "TokenName": "TILTG",
+    "ChainId": "eip155:1127469",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Sharecle Mainnet",
+    "TokenName": "SHR",
+    "ChainId": "eip155:1234567",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "zKatana",
+    "TokenName": "ETH",
+    "ChainId": "eip155:1261120",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Etho Protocol",
+    "TokenName": "ETHO",
+    "ChainId": "eip155:1313114",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Xerom",
+    "TokenName": "XERO",
+    "ChainId": "eip155:1313500",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Kintsugi",
+    "TokenName": "kiETH",
+    "ChainId": "eip155:1337702",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Kiln",
+    "TokenName": "ETH",
+    "ChainId": "eip155:1337802",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Zhejiang",
+    "TokenName": "ETH",
+    "ChainId": "eip155:1337803",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Plian Mainnet Main",
+    "TokenName": "PI",
+    "ChainId": "eip155:2099156",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "DPU Chain",
+    "TokenName": "DGC",
+    "ChainId": "eip155:2611555",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Xterio Chain",
+    "TokenName": "ETH",
+    "ChainId": "eip155:2702128",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "SaharaAI Network",
+    "TokenName": "SAH",
+    "ChainId": "eip155:3132023",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Funki Sepolia Sandbox",
+    "TokenName": "ETH",
+    "ChainId": "eip155:3397901",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "AltLayer Zero Gas Network",
+    "TokenName": "ZERO",
+    "ChainId": "eip155:4000003",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Worlds Caldera",
+    "TokenName": "ETH",
+    "ChainId": "eip155:4281033",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "NumBlock Chain",
+    "TokenName": "NUMB",
+    "ChainId": "eip155:5112023",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Reactive Kopli",
+    "TokenName": "REACT",
+    "ChainId": "eip155:5318008",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Imversed Mainnet",
+    "TokenName": "IMV",
+    "ChainId": "eip155:5555555",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Astar zKyoto",
+    "TokenName": "ETH",
+    "ChainId": "eip155:6038361",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Safe(AnWang) Mainnet",
+    "TokenName": "SAFE",
+    "ChainId": "eip155:6666665",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Saakuru Mainnet",
+    "TokenName": "OAS",
+    "ChainId": "eip155:7225878",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "OpenVessel",
+    "TokenName": "VETH",
+    "ChainId": "eip155:7355310",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Musicoin",
+    "TokenName": "MUSIC",
+    "ChainId": "eip155:7762959",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Zora",
+    "TokenName": "ETH",
+    "ChainId": "eip155:7777777",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Plian Mainnet Subchain 1",
+    "TokenName": "PI",
+    "ChainId": "eip155:8007736",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Fhenix Helium",
+    "TokenName": "tFHE",
+    "ChainId": "eip155:8008135",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Hokum",
+    "TokenName": "ETH",
+    "ChainId": "eip155:8080808",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "HAPchain",
+    "TokenName": "HAP",
+    "ChainId": "eip155:8794598",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "XCAP",
+    "TokenName": "GAS",
+    "ChainId": "eip155:9322252",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Milvine",
+    "TokenName": "GAS",
+    "ChainId": "eip155:9322253",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Soverun Mainnet",
+    "TokenName": "SVRN",
+    "ChainId": "eip155:10101010",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "AlienX Mainnet",
+    "TokenName": "ETH",
+    "ChainId": "eip155:10241024",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Sepolia",
+    "TokenName": "ETH",
+    "ChainId": "eip155:11155111",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "PepChain Churchill",
+    "TokenName": "TPEP",
+    "ChainId": "eip155:13371337",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Anduschain Mainnet",
+    "TokenName": "DEB",
+    "ChainId": "eip155:14288640",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Mande Network Mainnet",
+    "TokenName": "MAND",
+    "ChainId": "eip155:18071918",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "IOLite",
+    "TokenName": "ILT",
+    "ChainId": "eip155:18289463",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "DeepBrainChain Mainnet",
+    "TokenName": "DBC",
+    "ChainId": "eip155:19880818",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "SmartMesh Mainnet",
+    "TokenName": "SMT",
+    "ChainId": "eip155:20180430",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "quarkblockchain",
+    "TokenName": "QKI",
+    "ChainId": "eip155:20181205",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Pego Network",
+    "TokenName": "PG",
+    "ChainId": "eip155:20201022",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "DBK Chain",
+    "TokenName": "ETH",
+    "ChainId": "eip155:20240603",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Excelon Mainnet",
+    "TokenName": "xlon",
+    "ChainId": "eip155:22052002",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Excoincial Chain Mainnet",
+    "TokenName": "EXL",
+    "ChainId": "eip155:27082022",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Auxilium Network Mainnet",
+    "TokenName": "AUX",
+    "ChainId": "eip155:28945486",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Flachain Mainnet",
+    "TokenName": "FLA",
+    "ChainId": "eip155:29032022",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Joys Digital Mainnet",
+    "TokenName": "JOYS",
+    "ChainId": "eip155:35855456",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Kingdom Chain",
+    "TokenName": "KOZI",
+    "ChainId": "eip155:39916801",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "maistestsubnet",
+    "TokenName": "MAI",
+    "ChainId": "eip155:43214913",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Aquachain",
+    "TokenName": "AQUA",
+    "ChainId": "eip155:61717561",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "SX Toronto Rollup",
+    "TokenName": "SX",
+    "ChainId": "eip155:79479957",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "T.E.A.M Blockchain",
+    "TokenName": "$TEAM",
+    "ChainId": "eip155:88888888",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  },
+  {
+    "Name": "Polygon Blackberry",
+    "TokenName": "ETH",
+    "ChainId": "eip155:94204209",
+    "ChainType": "EVM",
+    "ExplorerLink": "",
+    "Image": ""
+  }
+]

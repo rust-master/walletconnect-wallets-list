@@ -1,0 +1,943 @@
+Chain Name,Chain ID,Token Name,,FinalChainID
+Ethereum,1,ETH,eip155:,eip155:1
+Expanse Network,2,EXP,eip155:,eip155:2
+Ropsten,3,ETH,eip155:,eip155:3
+Rinkeby,4,ETH,eip155:,eip155:4
+Goerli,5,ETH,eip155:,eip155:5
+ThaiChain,7,TCH,eip155:,eip155:7
+Ubiq,8,UBQ,eip155:,eip155:8
+OP Mainnet,10,ETH,eip155:,eip155:10
+Metadium Mainnet,11,META,eip155:,eip155:11
+Flare Mainnet,14,FLR,eip155:,eip155:14
+Diode Prenet,15,DIODE,eip155:,eip155:15
+ThaiChain 2.0 ThaiFi,17,TFI,eip155:,eip155:17
+Songbird Canary-Network,19,SGB,eip155:,eip155:19
+Elastos Smart Chain,20,ELA,eip155:,eip155:20
+Cronos Mainnet,25,CRO,eip155:,eip155:25
+ShibaChain,27,SHIB,eip155:,eip155:27
+Genesis L1,29,L1,eip155:,eip155:29
+Rootstock Mainnet,30,RBTC,eip155:,eip155:30
+GoodData Mainnet,33,GooD,eip155:,eip155:33
+TBWG Chain,35,TBG,eip155:,eip155:35
+Dxchain Mainnet,36,DX,eip155:,eip155:36
+Valorbit,38,VAL,eip155:,eip155:38
+U2U Solaris Mainnet,39,U2U,eip155:,eip155:39
+Telos EVM Mainnet,40,TLOS,eip155:,eip155:40
+Crab Network,44,CRAB,eip155:,eip155:44
+Darwinia Network,46,RING,eip155:,eip155:46
+Acria IntelliChain,47,ACRIA,eip155:,eip155:47
+Ennothem Mainnet Proterozoic,48,ETMP,eip155:,eip155:48
+XDC Network,50,XDC,eip155:,eip155:50
+XDC Apothem Network,51,TXDC,eip155:,eip155:51
+CoinEx Smart Chain Mainnet,52,cet,eip155:,eip155:52
+Openpiece Mainnet,54,BELLY,eip155:,eip155:54
+Zyx Mainnet,55,ZYX,eip155:,eip155:55
+BNB Chain,56,BNB,eip155:,eip155:56
+Syscoin Mainnet,57,SYS,eip155:,eip155:57
+Ontology Mainnet,58,ONG,eip155:,eip155:58
+GoChain,60,GO,eip155:,eip155:60
+Ethereum Classic,61,ETC,eip155:,eip155:61
+Ellaism,64,ELLA,eip155:,eip155:64
+OKXChain Mainnet,66,OKT,eip155:,eip155:66
+SoterOne Mainnet,68,SOTER,eip155:,eip155:68
+Optimism Kovan,69,ETH,eip155:,eip155:69
+Hoo Smart Chain,70,HOO,eip155:,eip155:70
+Conflux eSpace (Testnet),71,CFX,eip155:,eip155:71
+FNCY,73,FNCY,eip155:,eip155:73
+IDChain Mainnet,74,EIDI,eip155:,eip155:74
+Decimal Smart Chain Mainnet,75,DEL,eip155:,eip155:75
+Mix,76,MIX,eip155:,eip155:76
+POA Network Sokol,77,SPOA,eip155:,eip155:77
+PrimusChain mainnet,78,PETH,eip155:,eip155:78
+Zenith Mainnet,79,ZENITH,eip155:,eip155:79
+GeneChain,80,RNA,eip155:,eip155:80
+Meter Mainnet,82,MTR,eip155:,eip155:82
+GateChain Mainnet,86,GT,eip155:,eip155:86
+Nova Network,87,SNT,eip155:,eip155:87
+Viction,88,VIC,eip155:,eip155:88
+Garizon Stage0,90,GAR,eip155:,eip155:90
+Garizon Stage1,91,GAR,eip155:,eip155:91
+Garizon Stage2,92,GAR,eip155:,eip155:92
+Garizon Stage3,93,GAR,eip155:,eip155:93
+SwissDLT,94,BCTS,eip155:,eip155:94
+Six Protocol,98,SIX,eip155:,eip155:98
+POA Network Core,99,POA,eip155:,eip155:99
+Gnosis,100,XDAI,eip155:,eip155:100
+EtherInc,101,ETI,eip155:,eip155:101
+WorldLand Mainnet,103,WLC,eip155:,eip155:103
+Velas EVM Mainnet,106,VLX,eip155:,eip155:106
+ThunderCore Mainnet,108,TT,eip155:,eip155:108
+Shibarium,109,BONE,eip155:,eip155:109
+EtherLite Chain,111,ETL,eip155:,eip155:111
+Coinbit Mainnet,112,GIDR,eip155:,eip155:112
+Dehvo,113,Deh,eip155:,eip155:113
+Uptick Mainnet,117,UPTICK,eip155:,eip155:117
+ENULS Mainnet,119,NULS,eip155:,eip155:119
+Realchain Mainnet,121,REAL,eip155:,eip155:121
+Fuse Mainnet,122,FUSE,eip155:,eip155:122
+Fuse Sparknet,123,SPARK,eip155:,eip155:123
+Decentralized Web Mainnet,124,DWU,eip155:,eip155:124
+OYchain Mainnet,126,OY,eip155:,eip155:126
+Huobi ECO Chain Mainnet,128,HT,eip155:,eip155:128
+Innovator Chain,129,INOV8,eip155:,eip155:129
+Namefi Chain Mainnet,132,NFIC,eip155:,eip155:132
+iExec Sidechain,134,xRLC,eip155:,eip155:134
+Deamchain Mainnet,136,DEAM,eip155:,eip155:136
+Polygon Mainnet,137,MATIC,eip155:,eip155:137
+Defi Oracle Meta Mainnet,138,ETH,eip155:,eip155:138
+WoopChain Mainnet,139,WOOC,eip155:,eip155:139
+Eternal Mainnet,140,Eter,eip155:,eip155:140
+DAX CHAIN,142,DAX,eip155:,eip155:142
+PHI Network v2,144,Φ,eip155:,eip155:144
+Flag Mainnet,147,FLAG,eip155:,eip155:147
+ShimmerEVM,148,SMR,eip155:,eip155:148
+Puppynet Shibarium,157,BONE,eip155:,eip155:157
+Roburna Mainnet,158,RBA,eip155:,eip155:158
+Armonia Eva Chain Mainnet,160,AMAX,eip155:,eip155:160
+Lightstreams Mainnet,163,PHT,eip155:,eip155:163
+Omni Omega,164,OMNI,eip155:,eip155:164
+AIOZ Network,168,AIOZ,eip155:,eip155:168
+Manta Pacific Mainnet,169,ETH,eip155:,eip155:169
+DC Mainnet,176,DCT,eip155:,eip155:176
+ABEY Mainnet,179,ABEY,eip155:,eip155:179
+AME Chain Mainnet,180,AME,eip155:,eip155:180
+Waterfall Network,181,WATER,eip155:,eip155:181
+Mint Mainnet,185,ETH,eip155:,eip155:185
+Seele Mainnet,186,Seele,eip155:,eip155:186
+Dojima,187,DOJ,eip155:,eip155:187
+BMC Mainnet,188,BTM,eip155:,eip155:188
+CMDAO BBQ Chain,190,CMD,eip155:,eip155:190
+FileFileGo,191,FFG,eip155:,eip155:191
+Crypto Emergency,193,CEM,eip155:,eip155:193
+X Layer Mainnet,196,OKB,eip155:,eip155:196
+Bitchain Mainnet,198,BTC,eip155:,eip155:198
+BitTorrent Chain Mainnet,199,BTT,eip155:,eip155:199
+Arbitrum on xDai,200,xDAI,eip155:,eip155:200
+opBNB Mainnet,204,BNB,eip155:,eip155:204
+VinuChain Network,207,VC,eip155:,eip155:207
+Structx Mainnet,208,utx,eip155:,eip155:208
+Bitnet,210,BTN,eip155:,eip155:210
+Freight Trust Network,211,0xF,eip155:,eip155:211
+MAPO Makalu,212,MAPO,eip155:,eip155:212
+B2 Hub Mainnet,213,B2,eip155:,eip155:213
+Shinarium Mainnet,214,SHI,eip155:,eip155:214
+SiriusNet V2,217,MCD,eip155:,eip155:217
+BlockEx Mainnet,221,XBE,eip155:,eip155:221
+B2 Mainnet,223,BTC,eip155:,eip155:223
+LACHAIN Mainnet,225,LA,eip155:,eip155:225
+Mind Network Mainnet,228,FHE,eip155:,eip155:228
+SwapDEX,230,SDX,eip155:,eip155:230
+Blast Mainnet,238,ETH,eip155:,eip155:238
+Plinga Mainnet,242,PLINGA,eip155:,eip155:242
+Energy Web Chain,246,EWT,eip155:,eip155:246
+Oasys Mainnet,248,OAS,eip155:,eip155:248
+Fantom Opera,250,FTM,eip155:,eip155:250
+Fraxtal,252,frxETH,eip155:,eip155:252
+Swan Chain Mainnet,254,sETH,eip155:,eip155:254
+Kroma,255,ETH,eip155:,eip155:255
+Neonlink Mainnet,259,NEON,eip155:,eip155:259
+SUR Blockchain Network,262,SRN,eip155:,eip155:262
+High Performance Blockchain,269,HPB,eip155:,eip155:269
+EgonCoin Mainnet,271,EGON,eip155:,eip155:271
+LaChain,274,LAC,eip155:,eip155:274
+xFair.AI Mainnet,278,FAI,eip155:,eip155:278
+BPX Blockchain,279,BPX,eip155:,eip155:279
+Boba Network,288,ETH,eip155:,eip155:288
+Orderly Mainnet,291,ETH,eip155:,eip155:291
+Hedera Mainnet,295,HBAR,eip155:,eip155:295
+Hedera Previewnet,297,HBAR,eip155:,eip155:297
+ZKSats Mainnet,305,BTC,eip155:,eip155:305
+Furtheon,308,FTH,eip155:,eip155:308
+Omax Mainnet,311,OMAX,eip155:,eip155:311
+Neurochain Mainnet,313,NCN,eip155:,eip155:313
+Filecoin - Mainnet,314,FIL,eip155:,eip155:314
+KCC Mainnet,321,KCS,eip155:,eip155:321
+Cosvm Mainnet,323,CVM,eip155:,eip155:323
+zkSync Mainnet,324,ETH,eip155:,eip155:324
+Web3Q Mainnet,333,W3Q,eip155:,eip155:333
+Shiden,336,SDN,eip155:,eip155:336
+TSC Mainnet,345,TAS,eip155:,eip155:345
+Theta Mainnet,361,TFUEL,eip155:,eip155:361
+PulseChain,369,PLS,eip155:,eip155:369
+ZKAmoeba Mainnet,381,FIL,eip155:,eip155:381
+Lisinski,385,LISINS,eip155:,eip155:385
+Cronos zkEVM Mainnet,388,zkCRO,eip155:,eip155:388
+Nativ3 Mainnet,399,USNT,eip155:,eip155:399
+Syndr L3,404,ETH,eip155:,eip155:404
+Pepe Chain Mainnet,411,PEPE,eip155:,eip155:411
+SX Network Mainnet,416,SX,eip155:,eip155:416
+LaTestnet,418,TLA,eip155:,eip155:418
+Viridis Mainnet,422,VRD,eip155:,eip155:422
+PGN (Public Goods Network),424,ETH,eip155:,eip155:424
+Zeeth Chain,427,ZTH,eip155:,eip155:427
+Geso Verse,428,OAS,eip155:,eip155:428
+Boyaa Mainnet,434,BYC,eip155:,eip155:434
+ARZIO Chain,456,AZO,eip155:,eip155:456
+Areon Network Mainnet,463,AREA,eip155:,eip155:463
+Camino C-Chain,500,CAM,eip155:,eip155:500
+Syndicate Chain,510,ETH,eip155:,eip155:510
+Double-A Chain Mainnet,512,AAC,eip155:,eip155:512
+Gear Zero Network Mainnet,516,GZN,eip155:,eip155:516
+XT Smart Chain Mainnet,520,XT,eip155:,eip155:520
+Firechain Mainnet,529,FIRE,eip155:,eip155:529
+F(x)Core Mainnet Network,530,FX,eip155:,eip155:530
+Candle,534,CNDL,eip155:,eip155:534
+OpTrust Mainnet,537,BNB,eip155:,eip155:537
+Vela1 Chain Mainnet,555,CLASS,eip155:,eip155:555
+Tao Network,558,TAO,eip155:,eip155:558
+Rollux Mainnet,570,SYS,eip155:,eip155:570
+MetaChain Mainnet,571,MTC,eip155:,eip155:571
+Filenova Mainnet,579,FIL,eip155:,eip155:579
+Astar,592,ASTR,eip155:,eip155:592
+EIOB Mainnet,612,EIOB,eip155:,eip155:612
+Graphlinq Blockchain Mainnet,614,GLQ,eip155:,eip155:614
+Binary Mainnet,624,BNRY,eip155:,eip155:624
+Binary Sepolia,625,BNRY,eip155:,eip155:625
+Avocado,634,USDC,eip155:,eip155:634
+Previewnet,646,FLOW,eip155:,eip155:646
+Endurance Smart Chain Mainnet,648,ACE,eip155:,eip155:648
+Kalichain,654,KALIS,eip155:,eip155:654
+UltronSmartchain,662,ULC,eip155:,eip155:662
+LAOS Arrakis,667,LAOS,eip155:,eip155:667
+JuncaChain,668,JGC,eip155:,eip155:668
+Karura Network,686,KAR,eip155:,eip155:686
+Redstone,690,ETH,eip155:,eip155:690
+BlockChain Station Mainnet,707,BCS,eip155:,eip155:707
+Highbury,710,FURY,eip155:,eip155:710
+Vrcscan Mainnet,713,VRC,eip155:,eip155:713
+Shibarium Beta,719,BONE,eip155:,eip155:719
+Lycan Chain,721,LYC,eip155:,eip155:721
+Blucrates,727,BLU,eip155:,eip155:727
+Lovely Network Mainnet,730,LOVELY,eip155:,eip155:730
+Mainnet,747,FLOW,eip155:,eip155:747
+QL1,766,QOM,eip155:,eip155:766
+cheapETH,777,cTH,eip155:,eip155:777
+MAAL Chain,786,MAAL,eip155:,eip155:786
+Acala Network,787,ACA,eip155:,eip155:787
+Patex,789,ETH,eip155:,eip155:789
+Lucid Blockchain,800,LUCID,eip155:,eip155:800
+Haic,803,HAIC,eip155:,eip155:803
+Qitmeer Network Mainnet,813,MEER,eip155:,eip155:813
+Firechain zkEVM,814,ETH,eip155:,eip155:814
+BeOne Chain Mainnet,818,BOC,eip155:,eip155:818
+Callisto Mainnet,820,CLO,eip155:,eip155:820
+Taraxa Mainnet,841,TARA,eip155:,eip155:841
+HongKong Mainnet,852,HK,eip155:,eip155:852
+Fantasia Chain Mainnet,868,FST,eip155:,eip155:868
+Bandai Namco Research Verse Mainnet,876,OAS,eip155:,eip155:876
+Dexit Network,877,DXT,eip155:,eip155:877
+Ambros Chain Mainnet,880,AMBROS,eip155:,eip155:880
+Wanchain,888,WAN,eip155:,eip155:888
+MAXI Chain Mainnet,899,MGAS,eip155:,eip155:899
+TAPROOT Mainnet,911,TBTC,eip155:,eip155:911
+Yidark Chain Mainnet,927,YDK,eip155:,eip155:927
+Lyra Chain,957,ETH,eip155:,eip155:957
+BTC20 Smart Chain,963,BTCC,eip155:,eip155:963
+EthXY,969,SEXY,eip155:,eip155:969
+Oort Mainnet,970,OORT,eip155:,eip155:970
+Oort Ascraeus,972,CCNA,eip155:,eip155:972
+Nepal Blockchain Network,977,YETI,eip155:,eip155:977
+TOP Mainnet EVM,980,ETH,eip155:,eip155:980
+Memo Smart Chain Mainnet,985,CMEMO,eip155:,eip155:985
+BinaryChain Mainnet,987,BNRY,eip155:,eip155:987
+eLiberty Mainnet,990,$EL,eip155:,eip155:990
+5ireChain Mainnet,995,5IRE,eip155:,eip155:995
+5ireChain Thunder,997,T5IRE,eip155:,eip155:997
+Lucky Network,998,L99,eip155:,eip155:998
+GTON Mainnet,1000,GCD,eip155:,eip155:1000
+Tectum Emission Token,1003,TET,eip155:,eip155:1003
+T-EKTA,1004,T-EKTA,eip155:,eip155:1004
+Eurus Mainnet,1008,EUN,eip155:,eip155:1008
+Jumbochain Mainnet,1009,JNFTC,eip155:,eip155:1009
+Evrice Network,1010,EVC,eip155:,eip155:1010
+Rebus Mainnet,1011,REBUS,eip155:,eip155:1011
+Newton,1012,NEW,eip155:,eip155:1012
+CLV Parachain,1024,CLV,eip155:,eip155:1024
+Conflux eSpace,1030,CFX,eip155:,eip155:1030
+Mintara Mainnet,1080,MNTR,eip155:,eip155:1080
+Metis Andromeda Mainnet,1088,METIS,eip155:,eip155:1088
+Humans.ai Mainnet,1089,HEART,eip155:,eip155:1089
+Dymension,1100,DYM,eip155:,eip155:1100
+Polygon zkEVM,1101,ETH,eip155:,eip155:1101
+BLXq Mainnet,1108,BLXQ,eip155:,eip155:1108
+WEMIX3.0 Mainnet,1111,WEMIX,eip155:,eip155:1111
+Core Blockchain Mainnet,1116,CORE,eip155:,eip155:1116
+Dogcoin Mainnet,1117,DOGS,eip155:,eip155:1117
+Lisk,1135,ETH,eip155:,eip155:1135
+MathChain,1139,MATH,eip155:,eip155:1139
+Symplexia Smart Chain,1149,PLEX,eip155:,eip155:1149
+ClubMos Mainnet,1188,MOS,eip155:,eip155:1188
+Iora Chain,1197,IORA,eip155:,eip155:1197
+Cuckoo Chain,1200,CAI,eip155:,eip155:1200
+World Trade Technical Chain Mainnet,1202,WTT,eip155:,eip155:1202
+SaitaBlockChain(SBC),1209,STC,eip155:,eip155:1209
+Cuckoo Sepolia,1210,CAI,eip155:,eip155:1210
+Popcateum Mainnet,1213,POP,eip155:,eip155:1213
+EnterChain Mainnet,1214,ENTER,eip155:,eip155:1214
+Exzo Network Mainnet,1229,XZO,eip155:,eip155:1229
+Ultron Mainnet,1231,ULX,eip155:,eip155:1231
+Step Network,1234,FITFI,eip155:,eip155:1234
+ITX Mainnet,1235,ITX,eip155:,eip155:1235
+ARC Mainnet,1243,ARC,eip155:,eip155:1243
+OM Platform Mainnet,1246,OM,eip155:,eip155:1246
+Dogether Mainnet,1248,dogeth,eip155:,eip155:1248
+HALO Mainnet,1280,HO,eip155:,eip155:1280
+Moonbeam,1284,GLMR,eip155:,eip155:1284
+Moonriver,1285,MOVR,eip155:,eip155:1285
+Moonbase Alpha,1287,DEV,eip155:,eip155:1287
+Moonrock,1288,ROC,eip155:,eip155:1288
+Dos Fuji Subnet,1311,DOS,eip155:,eip155:1311
+JaiHo Chain,1313,JaiHo,eip155:,eip155:1313
+Alyx Mainnet,1314,ALYX,eip155:,eip155:1314
+AIA Mainnet,1319,AIA,eip155:,eip155:1319
+Sei Network,1329,SEI,eip155:,eip155:1329
+Elysium Mainnet,1339,LAVA,eip155:,eip155:1339
+Blitz Subnet,1343,BGAS,eip155:,eip155:1343
+CIC Chain Mainnet,1353,CIC,eip155:,eip155:1353
+Zafirium Mainnet,1369,ZAFIC,eip155:,eip155:1369
+Ramestta Mainnet,1370,RAMA,eip155:,eip155:1370
+Kalar Chain,1379,KLC,eip155:,eip155:1379
+AmStar Mainnet,1388,SINSO,eip155:,eip155:1388
+Joseon Mainnet,1392,JSM,eip155:,eip155:1392
+Rikeza Network Mainnet,1433,RIK,eip155:,eip155:1433
+Living Assets Mainnet,1440,LAS,eip155:,eip155:1440
+MetaChain Istanbul,1453,MTC,eip155:,eip155:1453
+Ctex Scan Blockchain,1455,CTEX,eip155:,eip155:1455
+Vitruveo Mainnet,1490,VTRU,eip155:,eip155:1490
+BEVM Canary,1501,BTC,eip155:,eip155:1501
+Sherpax Mainnet,1506,KSX,eip155:,eip155:1506
+Beagle Messaging Chain,1515,BG,eip155:,eip155:1515
+Tenet,1559,TENET,eip155:,eip155:1559
+StarCHAIN,1578,STARX,eip155:,eip155:1578
+Ethereum Inscription Mainnet,1617,ETINS,eip155:,eip155:1617
+Catecoin Chain Mainnet,1618,CATE,eip155:,eip155:1618
+Atheios,1620,ATH,eip155:,eip155:1620
+Gravity Alpha Mainnet,1625,G.,eip155:,eip155:1625
+Pivotal Mainnet,1648,PLUS,eip155:,eip155:1648
+Btachain,1657,BTA,eip155:,eip155:1657
+LUDAN Mainnet,1688,LUDAN,eip155:,eip155:1688
+Anytype EVM Chain,1701,ANY,eip155:,eip155:1701
+TBSI Mainnet,1707,JINDA,eip155:,eip155:1707
+Doric Network,1717,DRC,eip155:,eip155:1717
+Palette Chain Mainnet,1718,PLT,eip155:,eip155:1718
+Reya Network,1729,ETH,eip155:,eip155:1729
+Metal L2,1750,ETH,eip155:,eip155:1750
+PartyChain,1773,GRAMS,eip155:,eip155:1773
+Gauss Mainnet,1777,GANG,eip155:,eip155:1777
+Kerleano,1804,CRC,eip155:,eip155:1804
+Cube Chain Mainnet,1818,CUBE,eip155:,eip155:1818
+Ruby Smart Chain MAINNET,1821,RUBY,eip155:,eip155:1821
+Teslafunds,1856,TSF,eip155:,eip155:1856
+Whitechain,1875,WBT,eip155:,eip155:1875
+Lightlink Phoenix Mainnet,1890,ETH,eip155:,eip155:1890
+BON Network,1898,BOY,eip155:,eip155:1898
+Sports Chain Network,1904,SCN,eip155:,eip155:1904
+Bitcichain Mainnet,1907,BITCI,eip155:,eip155:1907
+Merkle Scan,1909,MRK,eip155:,eip155:1909
+Scalind,1911,ETH,eip155:,eip155:1911
+D-Chain Mainnet,1951,DOINX,eip155:,eip155:1951
+Selendra Network Mainnet,1961,SEL,eip155:,eip155:1961
+Eleanor,1967,MTC,eip155:,eip155:1967
+Super Smart Chain Mainnet,1970,SCS,eip155:,eip155:1970
+Atelier,1971,ATLR,eip155:,eip155:1971
+RedeCoin,1972,REDEV2,eip155:,eip155:1972
+ONUS Chain Mainnet,1975,ONUS,eip155:,eip155:1975
+SatoshIE,1985,TUSHY,eip155:,eip155:1985
+EtherGem,1987,EGEM,eip155:,eip155:1987
+Hubble Exchange,1992,USDC,eip155:,eip155:1992
+Ekta,1994,EKTA,eip155:,eip155:1994
+Sanko,1996,DMT,eip155:,eip155:1996
+Kyoto,1997,KYOTO,eip155:,eip155:1997
+Dogechain Mainnet,2000,DOGE,eip155:,eip155:2000
+Milkomeda C1 Mainnet,2001,mADA,eip155:,eip155:2001
+Milkomeda A1 Mainnet,2002,mALGO,eip155:,eip155:2002
+MetaLink Network,2004,MTL,eip155:,eip155:2004
+Panarchy,2013,GAS,eip155:,eip155:2013
+MainnetZ Mainnet,2016,NetZ,eip155:,eip155:2016
+Adiri,2017,TEL,eip155:,eip155:2017
+PublicMint Mainnet,2020,USD,eip155:,eip155:2020
+Edgeware EdgeEVM Mainnet,2021,EDG,eip155:,eip155:2021
+Rangers Protocol Mainnet,2025,RPG,eip155:,eip155:2025
+Edgeless Network,2026,EwEth,eip155:,eip155:2026
+Centrifuge,2031,CFG,eip155:,eip155:2031
+Kiwi Subnet,2037,SHRAP,eip155:,eip155:2037
+Vanar Mainnet,2040,VANRY,eip155:,eip155:2040
+NeuroWeb,2043,NEURO,eip155:,eip155:2043
+Shrapnel Subnet,2044,SHRAPG,eip155:,eip155:2044
+Stratos,2048,STOS,eip155:,eip155:2048
+Movo Smart Chain Mainnet,2049,MOVO,eip155:,eip155:2049
+Quokkacoin Mainnet,2077,QKA,eip155:,eip155:2077
+Ecoball Mainnet,2100,ECO,eip155:,eip155:2100
+Exosama Network,2109,SAMA,eip155:,eip155:2109
+UCHAIN Mainnet,2112,UCASH,eip155:,eip155:2112
+Catena Mainnet,2121,CMCX,eip155:,eip155:2121
+Metaplayerone Mainnet,2122,METAD,eip155:,eip155:2122
+BigShortBets,2137,USDC,eip155:,eip155:2137
+Oneness Network,2140,BTC,eip155:,eip155:2140
+BOSagora Mainnet,2151,BOA,eip155:,eip155:2151
+Findora Mainnet,2152,FRA,eip155:,eip155:2152
+Findora Forge,2154,FRA,eip155:,eip155:2154
+Moonsama Network,2199,SAMA,eip155:,eip155:2199
+Antofy Mainnet,2202,ABN,eip155:,eip155:2202
+Bitcoin EVM,2203,BTC,eip155:,eip155:2203
+Evanesco Mainnet,2213,EVA,eip155:,eip155:2213
+Kava,2222,KAVA,eip155:,eip155:2222
+VChain Mainnet,2223,VNDT,eip155:,eip155:2223
+Krest Network,2241,KRST,eip155:,eip155:2241
+BOMB Chain,2300,BOMB,eip155:,eip155:2300
+Ebro Network,2306,ebro,eip155:,eip155:2306
+Altcoinchain,2330,ALT,eip155:,eip155:2330
+SOMA Network Mainnet,2332,SMA,eip155:,eip155:2332
+Atleta Olympia,2340,ATLA,eip155:,eip155:2340
+Omnia Chain,2342,OMNIA,eip155:,eip155:2342
+Kroma Sepolia,2358,ETH,eip155:,eip155:2358
+TCG Verse Mainnet,2400,OAS,eip155:,eip155:2400
+Karak Mainnet,2410,ETH,eip155:,eip155:2410
+XODEX,2415,XODEX,eip155:,eip155:2415
+King Of Legends Mainnet,2425,KCC,eip155:,eip155:2425
+Hybrid Chain Network Mainnet,2468,HRC,eip155:,eip155:2468
+inEVM Mainnet,2525,INJ,eip155:,eip155:2525
+Kortho Mainnet,2559,KTO,eip155:,eip155:2559
+TechPay Mainnet,2569,TPC,eip155:,eip155:2569
+PoCRNet,2606,CRC,eip155:,eip155:2606
+Redlight Chain Mainnet,2611,REDLC,eip155:,eip155:2611
+EZChain C-Chain Mainnet,2612,EZC,eip155:,eip155:2612
+AILayer Mainnet,2649,BTC,eip155:,eip155:2649
+K-LAOS,2718,KLAOS,eip155:,eip155:2718
+XR Sepolia,2730,tXR,eip155:,eip155:2730
+Nanon,2748,ETH,eip155:,eip155:2748
+GM Network Mainnet,2777,ETH,eip155:,eip155:2777
+Morph Holesky,2810,ETH,eip155:,eip155:2810
+Chips Network,2882,IOTA,eip155:,eip155:2882
+Elux Chain,2907,ELUX,eip155:,eip155:2907
+HYCHAIN,2911,TOPIA,eip155:,eip155:2911
+BitYuan Mainnet,2999,BTY,eip155:,eip155:2999
+CENNZnet Nikau,3001,CPAY,eip155:,eip155:3001
+Canxium Mainnet,3003,CAU,eip155:,eip155:3003
+PLAYA3ULL GAMES,3011,3ULL,eip155:,eip155:3011
+Orlando Chain,3031,ORL,eip155:,eip155:3031
+Bifrost Mainnet,3068,BFC,eip155:,eip155:3068
+Immu3 EVM,3100,IMMU,eip155:,eip155:3100
+Vulture EVM Beta,3102,VFI,eip155:,eip155:3102
+SatoshiVM Alpha Mainnet,3109,BTC,eip155:,eip155:3109
+Dubxcoin network,3269,DUBX,eip155:,eip155:3269
+Web3Q Galileo,3334,W3Q,eip155:,eip155:3334
+EthStorage Mainnet,3335,ETH,eip155:,eip155:3335
+The peaq Network,3338,PEAQ,eip155:,eip155:3338
+Paribu Net Mainnet,3400,PRB,eip155:,eip155:3400
+EVOLVE Mainnet,3424,EVO,eip155:,eip155:3424
+GTCSCAN,3490,GTC,eip155:,eip155:3490
+JFIN Chain,3501,JFIN,eip155:,eip155:3501
+PandoProject Mainnet,3601,PTX,eip155:,eip155:3601
+Tycooncoin,3630,TYCO,eip155:,eip155:3630
+Botanix Mainnet,3637,BTC,eip155:,eip155:3637
+iChain Network,3639,ISLAMI,eip155:,eip155:3639
+Jouleverse Mainnet,3666,J,eip155:,eip155:3666
+Bittex Mainnet,3690,BTX,eip155:,eip155:3690
+Empire Network,3693,EMPIRE,eip155:,eip155:3693
+SenjePowers Mainnet,3699,SPC,eip155:,eip155:3699
+Crossbell,3737,CSB,eip155:,eip155:3737
+Astar zkEVM,3776,ETH,eip155:,eip155:3776
+AlveyChain Mainnet,3797,ALV,eip155:,eip155:3797
+Firechain zkEVM Ghostrider,3885,ETH,eip155:,eip155:3885
+KalyChain Mainnet,3888,KLC,eip155:,eip155:3888
+DRAC Network,3912,DRAC,eip155:,eip155:3912
+DOS Tesnet,3939,DOS,eip155:,eip155:3939
+DYNO Mainnet,3966,DYNO,eip155:,eip155:3966
+YuanChain Mainnet,3999,YCC,eip155:,eip155:3999
+Ozone Chain Mainnet,4000,OZO,eip155:,eip155:4000
+X1 Fastnet,4003,XN,eip155:,eip155:4003
+Bahamut ocean,4058,FTN,eip155:,eip155:4058
+Nahmii 3 Mainnet,4061,ETH,eip155:,eip155:4061
+Muster Mainnet,4078,ETH,eip155:,eip155:4078
+Tobe Chain,4080,TBC,eip155:,eip155:4080
+Bitindi Mainnet,4099,$BNI,eip155:,eip155:4099
+SX Rollup,4162,SX,eip155:,eip155:4162
+PHI Network V1,4181,Φ,eip155:,eip155:4181
+Merlin Mainnet,4200,BTC,eip155:,eip155:4200
+Nexi Mainnet,4242,NEXI,eip155:,eip155:4242
+Nexi V2 Mainnet,4243,NEXI,eip155:,eip155:4243
+Beam,4337,BEAM,eip155:,eip155:4337
+Credit Smart Chain Mainnet,4400,CREDIT,eip155:,eip155:4400
+Htmlcoin Mainnet,4444,HTML,eip155:,eip155:4444
+VERY Mainnet,4613,VERY,eip155:,eip155:4613
+Gold Chain,4653,ETH,eip155:,eip155:4653
+IoTeX Network Mainnet,4689,IOTX,eip155:,eip155:4689
+Globel Chain,4893,GC,eip155:,eip155:4893
+Venidium Mainnet,4919,XVM,eip155:,eip155:4919
+BlackFort Exchange Network,4999,BXN,eip155:,eip155:4999
+Mantle,5000,MNT,eip155:,eip155:5000
+Treasurenet Mainnet Alpha,5002,UNIT,eip155:,eip155:5002
+ONIGIRI Subnet,5040,ONGR,eip155:,eip155:5040
+Syndicate Frame Chain,5101,ETH,eip155:,eip155:5101
+Ham,5112,ETH,eip155:,eip155:5112
+Bahamut,5165,FTN,eip155:,eip155:5165
+Smart Layer Network,5169,SU,eip155:,eip155:5169
+TLChain Network Mainnet,5177,TLC,eip155:,eip155:5177
+EraSwap Mainnet,5197,ES,eip155:,eip155:5197
+Humanode Mainnet,5234,eHMND,eip155:,eip155:5234
+Uzmi Network Mainnet,5315,UZMI,eip155:,eip155:5315
+Netsbo,5333,NETS,eip155:,eip155:5333
+edeXa Mainnet,5424,EDX,eip155:,eip155:5424
+Egochain,5439,EGAX,eip155:,eip155:5439
+Nahmii 2 Mainnet,5551,ETH,eip155:,eip155:5551
+Chain Verse Mainnet,5555,OAS,eip155:,eip155:5555
+QIE Blockchain,5656,QIE,eip155:,eip155:5656
+Tanssi Demo,5678,TANGO,eip155:,eip155:5678
+Ganache,5777,ETH,eip155:,eip155:5777
+Tangle,5845,TNT,eip155:,eip155:5845
+Wegochain Rubidium Mainnet,5869,RBD,eip155:,eip155:5869
+BounceBit Mainnet,6001,BB,eip155:,eip155:6001
+Tres Mainnet,6066,TRES,eip155:,eip155:6066
+UPTN,6119,UPTN,eip155:,eip155:6119
+LAOS,6283,LAOS,eip155:,eip155:6283
+Aura Mainnet,6322,AURA,eip155:,eip155:6322
+Digit Soul Smart Chain,6363,DGC,eip155:,eip155:6363
+Peerpay,6502,P2P,eip155:,eip155:6502
+Pixie Chain Mainnet,6626,PIX,eip155:,eip155:6626
+Cybria Mainnet,6661,CYBA,eip155:,eip155:6661
+IRIShub,6688,ERIS,eip155:,eip155:6688
+OX Chain,6699,OX,eip155:,eip155:6699
+PAXB Mainnet,6701,PAXB,eip155:,eip155:6701
+Compverse Mainnet,6779,CPV,eip155:,eip155:6779
+Gold Smart Chain Mainnet,6789,STAND,eip155:,eip155:6789
+RACE Mainnet,6805,ETH,eip155:,eip155:6805
+Pools Mainnet,6868,POOLS,eip155:,eip155:6868
+Tomb Chain Mainnet,6969,TOMB,eip155:,eip155:6969
+PolySmartChain,6999,PSC,eip155:,eip155:6999
+ZetaChain Mainnet,7000,ZETA,eip155:,eip155:7000
+BST Chain,7007,BSTC,eip155:,eip155:7007
+Ella the heart,7027,ELLA,eip155:,eip155:7027
+Planq Mainnet,7070,PLQ,eip155:,eip155:7070
+Nume,7100,DAI,eip155:,eip155:7100
+Bitrock Mainnet,7171,BROCK,eip155:,eip155:7171
+XPLA Verse,7300,OAS,eip155:,eip155:7300
+KLYNTAR,7331,KLY,eip155:,eip155:7331
+Horizen EON Mainnet,7332,ZEN,eip155:,eip155:7332
+Shyft Mainnet,7341,SHYFT,eip155:,eip155:7341
+Raba Network Mainnet,7484,RABA,eip155:,eip155:7484
+MEVerse Chain Mainnet,7518,MEV,eip155:,eip155:7518
+Cyber Mainnet,7560,ETH,eip155:,eip155:7560
+Adil Chain V2 Mainnet,7576,ADIL,eip155:,eip155:7576
+The Root Network - Mainnet,7668,XRP,eip155:,eip155:7668
+Canto,7700,CANTO,eip155:,eip155:7700
+Canto Tesnet,7701,CANTO,eip155:,eip155:7701
+GDCC MAINNET,7774,GDCC,eip155:,eip155:7774
+Orenium Mainnet Protocol,7778,ORE,eip155:,eip155:7778
+Kinto Mainnet,7887,ETH,eip155:,eip155:7887
+ARDENIUM Athena,7895,tARD,eip155:,eip155:7895
+Dot Blox,7923,DTBX,eip155:,eip155:7923
+MO Mainnet,7924,MO,eip155:,eip155:7924
+DOS Chain,7979,DOS,eip155:,eip155:7979
+Teleport,8000,TELE,eip155:,eip155:8000
+BOAT Mainnet,8047,BOAT,eip155:,eip155:8047
+Karak Sepolia,8054,ETH,eip155:,eip155:8054
+Bitcoin Chain,8086,BTC,eip155:,eip155:8086
+E-Dollar,8087,USD,eip155:,eip155:8087
+StreamuX Blockchain,8098,SmuX,eip155:,eip155:8098
+Torus Mainnet,8192,TQF,eip155:,eip155:8192
+Kaia Mainnet,8217,KAIA,eip155:,eip155:8217
+Space Subnet,8227,FUEL,eip155:,eip155:8227
+Blockton Blockchain,8272,BTON,eip155:,eip155:8272
+KorthoTest,8285,KTO,eip155:,eip155:8285
+Lorenzo,8329,stBTC,eip155:,eip155:8329
+B3,8333,ETH,eip155:,eip155:8333
+Dracones Financial Services,8387,FUCK,eip155:,eip155:8387
+Base,8453,ETH,eip155:,eip155:8453
+Toki Network,8654,TOKI,eip155:,eip155:8654
+Hela Official Runtime Mainnet,8668,HLUSD,eip155:,eip155:8668
+TOOL Global Mainnet,8723,OLO,eip155:,eip155:8723
+Storagechain Mainnet,8726,STOR,eip155:,eip155:8726
+Bullions Smart Chain,8732,BLN,eip155:,eip155:8732
+Alph Network,8738,ALPH,eip155:,eip155:8738
+TMY Chain,8768,TMY,eip155:,eip155:8768
+IOTA EVM,8822,IOTA,eip155:,eip155:8822
+MARO Blockchain Mainnet,8848,MARO,eip155:,eip155:8848
+SuperLumio,8866,ETH,eip155:,eip155:8866
+Lif3 Chain,8869,LIF3,eip155:,eip155:8869
+Unique,8880,UNQ,eip155:,eip155:8880
+Quartz by Unique,8881,QTZ,eip155:,eip155:8881
+Sapphire by Unique,8883,QTZ,eip155:,eip155:8883
+Vyvo Smart Chain,8889,VSC,eip155:,eip155:8889
+Mammoth Mainnet,8898,MMT,eip155:,eip155:8898
+JIBCHAIN L1,8899,JBC,eip155:,eip155:8899
+Algen,8911,ALG,eip155:,eip155:8911
+Algen Layer2,8921,ALG,eip155:,eip155:8921
+Giant Mammoth Mainnet,8989,GMMT,eip155:,eip155:8989
+bloxberg,8995,U+25B3,eip155:,eip155:8995
+Evmos,9001,EVMOS,eip155:,eip155:9001
+Shido Mainnet Block,9008,SHIDO,eip155:,eip155:9008
+BerylBit Mainnet,9012,BRB,eip155:,eip155:9012
+Nexa Mainnet Block,9025,NEXB,eip155:,eip155:9025
+Genesis Coin,9100,GNC,eip155:,eip155:9100
+Codefin Mainnet,9223,COF,eip155:,eip155:9223
+Evoke Mainnet,9395,MTHN,eip155:,eip155:9395
+Oort MainnetDev,9700,OORT,eip155:,eip155:9700
+PepeNetwork Mainnet,9779,WPEPE,eip155:,eip155:9779
+Carbon EVM,9790,SWTH,eip155:,eip155:9790
+OptimusZ7 Mainnet,9797,OZ7,eip155:,eip155:9797
+IMPERIUM MAINNET,9819,IMP,eip155:,eip155:9819
+Dogelayer Mainnet,9888,DOGE,eip155:,eip155:9888
+Larissa Chain,9898,LRS,eip155:,eip155:9898
+Espento Mainnet,9911,SPENT,eip155:,eip155:9911
+Combo Mainnet,9980,BNB,eip155:,eip155:9980
+Volley Mainnet,9981,V2X,eip155:,eip155:9981
+Agung Network,9990,AGNG,eip155:,eip155:9990
+Mind Smart Chain Mainnet,9996,MIND,eip155:,eip155:9996
+Ztc Mainnet,9998,ZTC,eip155:,eip155:9998
+Smart Bitcoin Cash,10000,BCH,eip155:,eip155:10000
+Gon Chain,10024,GT,eip155:,eip155:10024
+SJATSH,10086,ETH,eip155:,eip155:10086
+MetaNova Verse,10096,MNV,eip155:,eip155:10096
+Blockchain Genesis Mainnet,10101,GEN,eip155:,eip155:10101
+MaxxChain Mainnet,10201,PWR,eip155:,eip155:10201
+GLScan,10222,GLC,eip155:,eip155:10222
+Arthera Mainnet,10242,AA,eip155:,eip155:10242
+0XTade,10248,0XT,eip155:,eip155:10248
+TAO EVM Mainnet,10321,TAO,eip155:,eip155:10321
+Numbers Mainnet,10507,NUM,eip155:,eip155:10507
+CryptoCoinPay,10823,CCP,eip155:,eip155:10823
+Lamina1,10849,L1,eip155:,eip155:10849
+Lamina1 Identity,10850,L1ID,eip155:,eip155:10850
+Quadrans Blockchain,10946,QDC,eip155:,eip155:10946
+Astra,11110,ASA,eip155:,eip155:11110
+WAGMI,11111,WGM,eip155:,eip155:11111
+HashBit Mainnet,11119,HBIT,eip155:,eip155:11119
+Shine Chain,11221,SC20,eip155:,eip155:11221
+Haqq Network,11235,ISLM,eip155:,eip155:11235
+BEVM Mainnet,11501,BTC,eip155:,eip155:11501
+SatsChain,11521,SATS,eip155:,eip155:11521
+Polygon Supernet Arianee,11891,ARIA20,eip155:,eip155:11891
+SatoshiChain Mainnet,12009,SATS,eip155:,eip155:12009
+Aternos,12020,ATR,eip155:,eip155:12020
+Singularity ZERO Mainnet,12052,ZERO,eip155:,eip155:12052
+BRC Chain Mainnet,12123,BRC,eip155:,eip155:12123
+Fibonacci Mainnet,12306,FIBO,eip155:,eip155:12306
+L3X Protocol,12324,ETH,eip155:,eip155:12324
+RSS3 VSL Mainnet,12553,RSS3,eip155:,eip155:12553
+SPS,13000,ECG,eip155:,eip155:13000
+Credit Smart Chain,13308,CREDIT,eip155:,eip155:13308
+Immutable zkEVM,13371,IMX,eip155:,eip155:13371
+Phoenix Mainnet,13381,PHX,eip155:,eip155:13381
+Masa,13396,MASA,eip155:,eip155:13396
+Kronobit Mainnet,13600,KNB,eip155:,eip155:13600
+Susono,13812,OPN,eip155:,eip155:13812
+Poodl Mainnet,15259,POODL,eip155:,eip155:15259
+KYMTC Mainnet,15430,KYMTC,eip155:,eip155:15430
+LoopNetwork Mainnet,15551,LOOP,eip155:,eip155:15551
+MetaDot Mainnet,16000,MTT,eip155:,eip155:16000
+DeFiVerse Mainnet,16116,OAS,eip155:,eip155:16116
+PLYR PHI,16180,PLYR,eip155:,eip155:16180
+Pivotal Sepolia,16481,PLUS,eip155:,eip155:16481
+Genesys Mainnet,16507,GSYS,eip155:,eip155:16507
+AirDAO Mainnet,16718,AMB,eip155:,eip155:16718
+Holesky,17000,ETH,eip155:,eip155:17000
+Garnet Holesky,17069,ETH,eip155:,eip155:17069
+Onchain Points,17071,POP,eip155:,eip155:17071
+G8Chain Mainnet,17171,G8C,eip155:,eip155:17171
+Eclipse Subnet,17172,ECLP,eip155:,eip155:17172
+KONET Mainnet,17217,KONET,eip155:,eip155:17217
+EOS EVM Network,17777,EOS,eip155:,eip155:17777
+Smart Trade Networks,18122,STN,eip155:,eip155:18122
+Proof Of Memes,18159,POM,eip155:,eip155:18159
+unreal,18233,reETH,eip155:,eip155:18233
+MXC zkEVM Moonchain,18686,MXC,eip155:,eip155:18686
+Titan (TKX),18888,TKX,eip155:,eip155:18888
+HOME Verse Mainnet,19011,OAS,eip155:,eip155:19011
+BlockX Mainnet,19191,BCX,eip155:,eip155:19191
+Decentraconnect Social,19224,DCSM,eip155:,eip155:19224
+Magnet Network,19527,DOT,eip155:,eip155:19527
+LBRY Mainnet,19600,LBC,eip155:,eip155:19600
+BTCIX Network,19845,BTCIX,eip155:,eip155:19845
+Camelark Mainnet,20001,ETHW,eip155:,eip155:20001
+Niza Chain Mainnet,20041,NIZA,eip155:,eip155:20041
+P12 Chain,20736,hP2,eip155:,eip155:20736
+Jono11 Subnet,20765,JONO,eip155:,eip155:20765
+C4EI,21004,C4EI,eip155:,eip155:21004
+All About Healthy,21133,AAH,eip155:,eip155:21133
+DCpay Mainnet,21223,DCP,eip155:,eip155:21223
+CENNZnet Azalea,21337,CPAY,eip155:,eip155:21337
+omChain Mainnet,21816,OMC,eip155:,eip155:21816
+BSL Mainnet,21912,ONF,eip155:,eip155:21912
+Taycan,22023,SFL,eip155:,eip155:22023
+Nautilus Mainnet,22222,ZBC,eip155:,eip155:22222
+MAP Protocol,22776,MAPO,eip155:,eip155:22776
+Oasis Sapphire,23294,ROSE,eip155:,eip155:23294
+DreyerX Mainnet,23451,DRX,eip155:,eip155:23451
+MintMe.com Coin,24734,MINTME,eip155:,eip155:24734
+LiquidLayer Mainnet,25186,LILA,eip155:,eip155:25186
+Hammer Chain Mainnet,25888,GOLDT,eip155:,eip155:25888
+Hertz Network Mainnet,26600,HTZ,eip155:,eip155:26600
+OasisChain Mainnet,26863,OAC,eip155:,eip155:26863
+KLAOS Nova,27181,KLAOS,eip155:,eip155:27181
+Nanon Sepolia,27483,ETH,eip155:,eip155:27483
+zeroone Mainnet Subnet,27827,ZERO,eip155:,eip155:27827
+Vizing Mainnet,28518,ETH,eip155:,eip155:28518
+Boba Sepolia,28882,ETH,eip155:,eip155:28882
+Nexa MetaNet,29223,NEXA,eip155:,eip155:29223
+MCH Verse Mainnet,29548,OAS,eip155:,eip155:29548
+MiYou Mainnet,30088,MY,eip155:,eip155:30088
+Ethersocial Network,31102,ESN,eip155:,eip155:31102
+CloudTx Mainnet,31223,CLD,eip155:,eip155:31223
+Xchain Mainnet,31753,INTD,eip155:,eip155:31753
+Santiment Intelligence Network,32382,SANR,eip155:,eip155:32382
+Bitgert Mainnet,32520,Brise,eip155:,eip155:32520
+Fusion Mainnet,32659,FSN,eip155:,eip155:32659
+Zilliqa EVM,32769,ZIL,eip155:,eip155:32769
+Zilliqa EVM Isolated Server,32990,ZIL,eip155:,eip155:32990
+Entangle Mainnet,33033,NGL,eip155:,eip155:33033
+Cloudverse Subnet,33210,XCLOUD,eip155:,eip155:33210
+Aves Mainnet,33333,AVS,eip155:,eip155:33333
+SlingShot,33401,SLING,eip155:,eip155:33401
+Funki,33979,ETH,eip155:,eip155:33979
+Mode,34443,ETH,eip155:,eip155:34443
+J2O Taro,35011,taro,eip155:,eip155:35011
+Q Mainnet,35441,QGOV,eip155:,eip155:35441
+ConnectorManager,38400,cmRPG,eip155:,eip155:38400
+ConnectorManager Robin,38401,ttRPG,eip155:,eip155:38401
+PRM Mainnet,39656,PRM,eip155:,eip155:39656
+Energi Mainnet,39797,NRG,eip155:,eip155:39797
+OHO Mainnet,39815,OHO,eip155:,eip155:39815
+Opulent-X BETA,41500,OXYN,eip155:,eip155:41500
+Arbitrum One,42161,ETH,eip155:,eip155:42161
+Arbitrum Nova,42170,ETH,eip155:,eip155:42170
+Celo Mainnet,42220,CELO,eip155:,eip155:42220
+Oasis Emerald,42262,ROSE,eip155:,eip155:42262
+GoldXChain Mainnet,42355,GOLDX,eip155:,eip155:42355
+ZKFair Mainnet,42766,USDC,eip155:,eip155:42766
+Etherlink Mainnet,42793,XTZ,eip155:,eip155:42793
+Athereum,43110,ATH,eip155:,eip155:43110
+Avalanche C-Chain,43114,AVAX,eip155:,eip155:43114
+Frenchain,44444,FREN,eip155:,eip155:44444
+Quantum Network,44445,QTM,eip155:,eip155:44445
+Autobahn Network,45000,TXL,eip155:,eip155:45000
+Swamps L2,45454,SWP,eip155:,eip155:45454
+Deelance Mainnet,45510,DEE,eip155:,eip155:45510
+Neo X Mainnet,47763,GAS,eip155:,eip155:47763
+REI Network,47805,REI,eip155:,eip155:47805
+Liveplex OracleEVM,50001,ETH,eip155:,eip155:50001
+Yooldo Verse Mainnet,50005,OAS,eip155:,eip155:50005
+Sardis Mainnet,51712,SRDX,eip155:,eip155:51712
+Electroneum Mainnet,52014,ETN,eip155:,eip155:52014
+DOID,53277,DOID,eip155:,eip155:53277
+DFK Chain,53935,JEWEL,eip155:,eip155:53935
+Titan,55004,ETH,eip155:,eip155:55004
+REI Chain Mainnet,55555,REI,eip155:,eip155:55555
+Lambda Chain Mainnet,56026,ETH,eip155:,eip155:56026
+Boba BNB Mainnet,56288,BOBA,eip155:,eip155:56288
+VELO Labs Mainnet,56789,NOVA,eip155:,eip155:56789
+COINSEC Network,57451,SEC,eip155:,eip155:57451
+Sepolia PGN (Public Goods Network),58008,ETH,eip155:,eip155:58008
+Linea Goerli,59140,ETH,eip155:,eip155:59140
+Linea Sepolia,59141,ETH,eip155:,eip155:59141
+Linea,59144,ETH,eip155:,eip155:59144
+Genesys Code Mainnet,59971,GCODE,eip155:,eip155:59971
+BOB,60808,ETH,eip155:,eip155:60808
+Orange Chain Mainnet,61022,BTC,eip155:,eip155:61022
+KaiChain,61406,KEC,eip155:,eip155:61406
+Etica Mainnet,61803,EGAZ,eip155:,eip155:61803
+DoKEN Super Chain Mainnet,61916,DKN,eip155:,eip155:61916
+Optopia Mainnet,62050,ETH,eip155:,eip155:62050
+MultiVAC Mainnet,62621,MTV,eip155:,eip155:62621
+eCredits Mainnet,63000,ECS,eip155:,eip155:63000
+Vecno Mainnet,65357,VE,eip155:,eip155:65357
+Scolcoin Mainnet,65450,SCOL,eip155:,eip155:65450
+Cosmic Chain,67588,COSMIC,eip155:,eip155:67588
+DM2 Verse Mainnet,68770,OAS,eip155:,eip155:68770
+Condrieu,69420,CTE,eip155:,eip155:69420
+Thinkium Mainnet Chain 0,70000,TKM,eip155:,eip155:70000
+Thinkium Mainnet Chain 1,70001,TKM,eip155:,eip155:70001
+Thinkium Mainnet Chain 2,70002,TKM,eip155:,eip155:70002
+Thinkium Mainnet Chain 103,70103,TKM,eip155:,eip155:70103
+Proof of Play - Apex,70700,ETH,eip155:,eip155:70700
+GuapcoinX,71111,GuapX,eip155:,eip155:71111
+Godwoken Mainnet,71402,pCKB,eip155:,eip155:71402
+Grok Chain Mainnet,72992,GROC,eip155:,eip155:72992
+ICB Network,73115,ICBX,eip155:,eip155:73115
+Mixin Virtual Machine,73927,ETH,eip155:,eip155:73927
+GEEK Verse Mainnet,75512,OAS,eip155:,eip155:75512
+BORAchain mainnet,77001,BORA,eip155:,eip155:77001
+Vention Smart Chain Mainnet,77612,VNT,eip155:,eip155:77612
+Cycle Network Mainnet Sailboat,77677,ETH,eip155:,eip155:77677
+Toronet Mainnet,77777,TORO,eip155:,eip155:77777
+Dragonfly Mainnet (Hexapod),78281,DFLY,eip155:,eip155:78281
+Amplify Subnet,78430,AMP,eip155:,eip155:78430
+Bulletin Subnet,78431,BLT,eip155:,eip155:78431
+Conduit Subnet,78432,CON,eip155:,eip155:78432
+Vanguard,78600,VANRY,eip155:,eip155:78600
+Mumbai,80001,MATIC,eip155:,eip155:80001
+Amoy,80002,MATIC,eip155:,eip155:80002
+Berachain bArtio,80084,BERA,eip155:,eip155:80084
+Berachain Artio,80085,BERA,eip155:,eip155:80085
+Hizoco mainnet,80096,HZC,eip155:,eip155:80096
+Nordek Mainnet,81041,NRK,eip155:,eip155:81041
+Blast,81457,ETH,eip155:,eip155:81457
+Quantum Chain Mainnet,81720,QNET,eip155:,eip155:81720
+ZEDXION,83872,ZEDX,eip155:,eip155:83872
+Aerie Network,84886,AER,eip155:,eip155:84886
+CYBERTRUST,85449,CYBER,eip155:,eip155:85449
+Inoai Network,88559,INO,eip155:,eip155:88559
+ZKasino Mainnet,88800,ZKAS,eip155:,eip155:88800
+Unit Zero Stagenet,88819,UNIT0,eip155:,eip155:88819
+Beverly Hills,90210,BVE,eip155:,eip155:90210
+Nautilus Trition Chain,91002,tZBC,eip155:,eip155:91002
+MetaDAP Enterprise Mainnet,91120,DAP,eip155:,eip155:91120
+Ebi Chain,98881,ETH,eip155:,eip155:98881
+UB Smart Chain(testnet),99998,UBC,eip155:,eip155:99998
+UB Smart Chain,99999,UBC,eip155:,eip155:99999
+QuarkChain Mainnet Root,100000,QKC,eip155:,eip155:100000
+QuarkChain Mainnet Shard 0,100001,QKC,eip155:,eip155:100001
+QuarkChain Mainnet Shard 1,100002,QKC,eip155:,eip155:100002
+QuarkChain Mainnet Shard 2,100003,QKC,eip155:,eip155:100003
+QuarkChain Mainnet Shard 3,100004,QKC,eip155:,eip155:100004
+QuarkChain Mainnet Shard 4,100005,QKC,eip155:,eip155:100005
+QuarkChain Mainnet Shard 5,100006,QKC,eip155:,eip155:100006
+QuarkChain Mainnet Shard 6,100007,QKC,eip155:,eip155:100007
+QuarkChain Mainnet Shard 7,100008,QKC,eip155:,eip155:100008
+VeChain,100009,VET,eip155:,eip155:100009
+QuarkChain L2 Mainnet,100011,QKC,eip155:,eip155:100011
+Crystaleum,103090,◈,eip155:,eip155:103090
+KaspaClassic Mainnet,104566,CAS,eip155:,eip155:104566
+Stratis Mainnet,105105,STRAX,eip155:,eip155:105105
+BROChain Mainnet,108801,BRO,eip155:,eip155:108801
+MARS Credit,110110,MARS,eip155:,eip155:110110
+Siberium Network,111111,SIBR,eip155:,eip155:111111
+re.al,111188,reETH,eip155:,eip155:111188
+Metachain One Mainnet,112358,METAO,eip155:,eip155:112358
+Gemchain,123321,GEM,eip155:,eip155:123321
+Odyssey Chain (Testnet),131313,DIONE,eip155:,eip155:131313
+ETND Chain Mainnets,131419,ETND,eip155:,eip155:131419
+ICPlaza Mainnet,142857,ict,eip155:,eip155:142857
+Eclat Mainnet,165279,ECLAT,eip155:,eip155:165279
+Taiko Mainnet,167000,ETH,eip155:,eip155:167000
+Taiko Katla L2,167008,ETH,eip155:,eip155:167008
+Taiko Hekla L2,167009,ETH,eip155:,eip155:167009
+Bitica Chain Mainnet,188710,BDCC,eip155:,eip155:188710
+Akroma,200625,AKA,eip155:,eip155:200625
+Bitlayer Mainnet,200901,BTC,eip155:,eip155:200901
+Alaya Mainnet,201018,atp,eip155:,eip155:201018
+Mythical Chain,201804,MYTH,eip155:,eip155:201804
+Jellie,202624,TWL,eip155:,eip155:202624
+X1 Network,204005,XN,eip155:,eip155:204005
+PlatON Mainnet,210425,lat,eip155:,eip155:210425
+Mas Mainnet,220315,MAS,eip155:,eip155:220315
+Reapchain Mainnet,221230,REAP,eip155:,eip155:221230
+HydraDX,222222,WETH,eip155:,eip155:222222
+DeepL Mainnet,222555,DEEPL,eip155:,eip155:222555
+Taf ECO Chain Mainnet,224168,TAFECO,eip155:,eip155:224168
+CONET Holesky,224433,CONET,eip155:,eip155:224433
+ARTIS sigma1,246529,ATS,eip155:,eip155:246529
+CMP-Mainnet,256256,CMP,eip155:,eip155:256256
+Social Smart Chain Mainnet,281121,$OC,eip155:,eip155:281121
+One World Chain Mainnet,309075,OWCT,eip155:,eip155:309075
+Parex Mainnet,322202,PRX,eip155:,eip155:322202
+Nal Mainnet,328527,ETH,eip155:,eip155:328527
+TTcoin Smart Chain Mainnet,330844,TC,eip155:,eip155:330844
+Bloom Genesis Mainnet,333313,BGBC,eip155:,eip155:333313
+Polis Mainnet,333999,POLIS,eip155:,eip155:333999
+UPchain Mainnet,336666,UBTC,eip155:,eip155:336666
+Bitfinity Network Mainnet,355110,BFT,eip155:,eip155:355110
+LAVITA Mainnet,360890,vTFUEL,eip155:,eip155:360890
+Digit Soul Smart Chain 2,363636,DGC,eip155:,eip155:363636
+Metal C-Chain,381931,METAL,eip155:,eip155:381931
+Metal Tahoe C-Chain,381932,METAL,eip155:,eip155:381932
+Tipboxcoin Mainnet,404040,TPBX,eip155:,eip155:404040
+Kekchain,420420,KEK,eip155:,eip155:420420
+Kekchain (kektest),420666,tKEK,eip155:,eip155:420666
+Arbitrum Rinkeby,421611,ETH,eip155:,eip155:421611
+Arbitrum Goerli,421613,AGOR,eip155:,eip155:421613
+Arbitrum Sepolia,421614,ETH,eip155:,eip155:421614
+Markr Go,431140,AVAX,eip155:,eip155:431140
+Dexalot Subnet,432204,ALOT,eip155:,eip155:432204
+Syndr L3 Sepolia,444444,ETH,eip155:,eip155:444444
+Ultra Pro Mainnet,473861,UPRO,eip155:,eip155:473861
+OpenChain Mainnet,474142,OPC,eip155:,eip155:474142
+Playdapp Network,504441,PDA,eip155:,eip155:504441
+DisChain,513100,DIS,eip155:,eip155:513100
+DoCoin Community Chain,526916,DCT,eip155:,eip155:526916
+Scroll,534352,ETH,eip155:,eip155:534352
+Shinarium Beta,534849,SHI,eip155:,eip155:534849
+BeanEco SmartChain,535037,BESC,eip155:,eip155:535037
+Hypra Mainnet,622277,HYP,eip155:,eip155:622277
+Atlas,622463,TON,eip155:,eip155:622463
+Bear Network Chain Mainnet,641230,BRNKC,eip155:,eip155:641230
+ALL Mainnet,651940,ALL,eip155:,eip155:651940
+Open Campus Codex,656476,EDU,eip155:,eip155:656476
+Xai Mainnet,660279,XAI,eip155:,eip155:660279
+Won Network,686868,WON,eip155:,eip155:686868
+Tiltyard Mainnet Subnet,710420,TILT,eip155:,eip155:710420
+ERAM Mainnet,721529,ERAM,eip155:,eip155:721529
+Hemi Sepolia,743111,ETH,eip155:,eip155:743111
+Miexs Smartchain,761412,MIX,eip155:,eip155:761412
+Modularium,776877,MDM,eip155:,eip155:776877
+OctaSpace,800001,OCTA,eip155:,eip155:800001
+BOB Sepolia,808813,ETH,eip155:,eip155:808813
+zkLink Nova Mainnet,810180,ETH,eip155:,eip155:810180
+CURVE Mainnet,827431,CURVE,eip155:,eip155:827431
+4GoodNetwork,846000,APTA,eip155:,eip155:846000
+Dodao,855456,DODAO,eip155:,eip155:855456
+BlocX Mainnet,879151,BLX,eip155:,eip155:879151
+REXX Mainnet,888882,REXX,eip155:,eip155:888882
+Vision - Mainnet,888888,VS,eip155:,eip155:888888
+Posichain Mainnet Shard 0,900000,POSI,eip155:,eip155:900000
+Astria EVM Dusknet,912559,RIA,eip155:,eip155:912559
+Jono12 Subnet,955081,JONO,eip155:,eip155:955081
+Eluvio Content Fabric,955305,ELV,eip155:,eip155:955305
+Treasure Ruby,978657,MAGIC,eip155:,eip155:978657
+Forma,984122,TIA,eip155:,eip155:984122
+Forma Sketchpad,984123,TIA,eip155:,eip155:984123
+Ecrox Chain Mainnet,988207,ECROX,eip155:,eip155:988207
+AmChain,999999,AMC,eip155:,eip155:999999
+Tiltyard Subnet,1127469,TILTG,eip155:,eip155:1127469
+Sharecle Mainnet,1234567,SHR,eip155:,eip155:1234567
+zKatana,1261120,ETH,eip155:,eip155:1261120
+Etho Protocol,1313114,ETHO,eip155:,eip155:1313114
+Xerom,1313500,XERO,eip155:,eip155:1313500
+Kintsugi,1337702,kiETH,eip155:,eip155:1337702
+Kiln,1337802,ETH,eip155:,eip155:1337802
+Zhejiang,1337803,ETH,eip155:,eip155:1337803
+Plian Mainnet Main,2099156,PI,eip155:,eip155:2099156
+DPU Chain,2611555,DGC,eip155:,eip155:2611555
+Xterio Chain,2702128,ETH,eip155:,eip155:2702128
+SaharaAI Network,3132023,SAH,eip155:,eip155:3132023
+Funki Sepolia Sandbox,3397901,ETH,eip155:,eip155:3397901
+AltLayer Zero Gas Network,4000003,ZERO,eip155:,eip155:4000003
+Worlds Caldera,4281033,ETH,eip155:,eip155:4281033
+NumBlock Chain,5112023,NUMB,eip155:,eip155:5112023
+Reactive Kopli,5318008,REACT,eip155:,eip155:5318008
+Imversed Mainnet,5555555,IMV,eip155:,eip155:5555555
+Astar zKyoto,6038361,ETH,eip155:,eip155:6038361
+Safe(AnWang) Mainnet,6666665,SAFE,eip155:,eip155:6666665
+Saakuru Mainnet,7225878,OAS,eip155:,eip155:7225878
+OpenVessel,7355310,VETH,eip155:,eip155:7355310
+Musicoin,7762959,MUSIC,eip155:,eip155:7762959
+Zora,7777777,ETH,eip155:,eip155:7777777
+Plian Mainnet Subchain 1,8007736,PI,eip155:,eip155:8007736
+Fhenix Helium,8008135,tFHE,eip155:,eip155:8008135
+Hokum,8080808,ETH,eip155:,eip155:8080808
+HAPchain,8794598,HAP,eip155:,eip155:8794598
+XCAP,9322252,GAS,eip155:,eip155:9322252
+Milvine,9322253,GAS,eip155:,eip155:9322253
+Soverun Mainnet,10101010,SVRN,eip155:,eip155:10101010
+AlienX Mainnet,10241024,ETH,eip155:,eip155:10241024
+Sepolia,11155111,ETH,eip155:,eip155:11155111
+PepChain Churchill,13371337,TPEP,eip155:,eip155:13371337
+Anduschain Mainnet,14288640,DEB,eip155:,eip155:14288640
+Mande Network Mainnet,18071918,MAND,eip155:,eip155:18071918
+IOLite,18289463,ILT,eip155:,eip155:18289463
+DeepBrainChain Mainnet,19880818,DBC,eip155:,eip155:19880818
+SmartMesh Mainnet,20180430,SMT,eip155:,eip155:20180430
+quarkblockchain,20181205,QKI,eip155:,eip155:20181205
+Pego Network,20201022,PG,eip155:,eip155:20201022
+DBK Chain,20240603,ETH,eip155:,eip155:20240603
+Excelon Mainnet,22052002,xlon,eip155:,eip155:22052002
+Excoincial Chain Mainnet,27082022,EXL,eip155:,eip155:27082022
+Auxilium Network Mainnet,28945486,AUX,eip155:,eip155:28945486
+Flachain Mainnet,29032022,FLA,eip155:,eip155:29032022
+Joys Digital Mainnet,35855456,JOYS,eip155:,eip155:35855456
+Kingdom Chain,39916801,KOZI,eip155:,eip155:39916801
+maistestsubnet,43214913,MAI,eip155:,eip155:43214913
+Aquachain,61717561,AQUA,eip155:,eip155:61717561
+SX Toronto Rollup,79479957,SX,eip155:,eip155:79479957
+T.E.A.M Blockchain,88888888,$TEAM,eip155:,eip155:88888888
+Polygon Blackberry,94204209,ETH,eip155:,eip155:94204209
