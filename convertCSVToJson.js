@@ -6,6 +6,7 @@ const results = [];
 const ChainType = "EVM"
 const ExplorerLink = ""
 const Image = ""
+const walletInfoName  = '🌈 Rainbow'
 
 fs.createReadStream('network-list.csv')
   .pipe(csv())
@@ -22,3 +23,6 @@ fs.createReadStream('network-list.csv')
     fs.writeFileSync('network-list.json', JSON.stringify(results, null, 2));
     console.log('CSV file successfully processed and JSON file created.');
   });
+
+
+  
